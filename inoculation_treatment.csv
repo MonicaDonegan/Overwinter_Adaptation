@@ -1,0 +1,482 @@
+Row,Vine,Variety,Treatment
+2,22,Albarino,Bakersfield
+2,23,Albarino,Bakersfield
+2,24,Albarino,Bakersfield
+2,25,Albarino,control
+3,2,Teroldego,Hopland
+3,3,Teroldego,control
+3,4,Teroldego,Bakersfield
+3,5,Teroldego,control
+3,6,Teroldego,Bakersfield
+3,7,Sagrantino,control
+3,8,Sagrantino,Bakersfield
+3,9,Sagrantino,Bakersfield
+3,10,Sagrantino,Hopland
+3,11,Sagrantino,Bakersfield
+3,12,Greco di Tufo,Hopland
+3,13,Greco di Tufo,Bakersfield
+3,14,Greco di Tufo,control
+3,15,Greco di Tufo,Bakersfield
+3,16,Greco di Tufo,Bakersfield
+3,17,Tinta Francisca,Hopland
+3,18,Tinta Francisca,Hopland
+3,19,Tinta Francisca,Bakersfield
+3,20,Tinta Francisca,Bakersfield
+3,21,Tinta Francisca,control
+3,22,Petit Manseng,Bakersfield
+3,23,Petit Manseng,Hopland
+3,24,Petit Manseng,Hopland
+3,25,Petit Manseng,Hopland
+3,26,Petit Manseng,Hopland
+3,27,Falanghina,Bakersfield
+3,28,Falanghina,Hopland
+3,29,Falanghina,Hopland
+3,30,Falanghina,Hopland
+3,31,Falanghina,control
+4,2,Falanghina,Bakersfield
+4,3,Falanghina,control
+4,4,Falanghina,Hopland
+4,5,Falanghina,Hopland
+4,6,Falanghina,Hopland
+4,7,Greco di Tufo,control
+4,8,Greco di Tufo,Hopland
+4,9,Greco di Tufo,Hopland
+4,10,Greco di Tufo,control
+4,11,Greco di Tufo,Bakersfield
+4,12,Albarino,control
+4,13,Albarino,Bakersfield
+4,14,Albarino,Hopland
+4,16,Albarino,Hopland
+4,22,Albarino,control
+4,23,Albarino,Hopland
+4,24,Albarino,Bakersfield
+4,25,Albarino,Hopland
+4,26,Albarino,control
+4,27,Tinta Francisca,control
+4,28,Tinta Francisca,Hopland
+4,29,Tinta Francisca,Hopland
+4,30,Tinta Francisca,control
+4,31,Tinta Francisca,Bakersfield
+4,32,Graciano,Hopland
+4,33,Graciano,control
+4,34,Graciano,Bakersfield
+4,35,Graciano,Bakersfield
+4,36,Graciano,Hopland
+4,37,Ciliegiolo,control
+4,38,Ciliegiolo,Bakersfield
+4,39,Ciliegiolo,Hopland
+4,40,Ciliegiolo,control
+4,41,Ciliegiolo,control
+5,2,Ciliegiolo,Bakersfield
+5,3,Ciliegiolo,Hopland
+5,4,Ciliegiolo,Bakersfield
+5,5,Ciliegiolo,control
+5,6,Ciliegiolo,Bakersfield
+5,7,Periquita,Hopland
+5,8,Periquita,Hopland
+5,9,Periquita,control
+5,10,Periquita,control
+5,11,Periquita,Bakersfield
+5,12,Ciliegiolo,Bakersfield
+5,13,Ciliegiolo,Hopland
+5,14,Ciliegiolo,control
+5,15,Ciliegiolo,control
+5,16,Ciliegiolo,Bakersfield
+5,17,Petit Manseng,control
+5,18,Petit Manseng,control
+5,19,Petit Manseng,control
+5,20,Petit Manseng,Bakersfield
+5,22,Greco di Tufo,control
+5,23,Greco di Tufo,Hopland
+5,24,Greco di Tufo,control
+5,25,Greco di Tufo,Hopland
+5,26,Greco di Tufo,control
+5,27,Teroldego,Hopland
+5,28,Teroldego,control
+5,29,Teroldego,Hopland
+5,30,Teroldego,Hopland
+5,31,Teroldego,control
+5,32,Tinta Amarella,Bakersfield
+5,33,Tinta Amarella,Bakersfield
+5,34,Tinta Amarella,Hopland
+5,35,Tinta Amarella,control
+5,36,Tinta Amarella,control
+5,37,Falanghina,Bakersfield
+5,38,Falanghina,Hopland
+5,39,Falanghina,Hopland
+5,40,Falanghina,Bakersfield
+5,41,Falanghina,control
+6,2,Albarino,Bakersfield
+6,3,Albarino,control
+6,4,Albarino,Hopland
+6,5,Albarino,control
+6,6,Albarino,control
+6,7,Petit Manseng,Bakersfield
+6,8,Petit Manseng,Hopland
+6,9,Petit Manseng,Bakersfield
+6,11,Petit Manseng,Hopland
+6,12,Teroldego,Hopland
+6,13,Teroldego,control
+6,14,Teroldego,Bakersfield
+6,15,Teroldego,control
+6,16,Teroldego,Hopland
+6,17,Mencia,Bakersfield
+6,18,Mencia,Hopland
+6,19,Mencia,Hopland
+6,20,Mencia,Hopland
+6,21,Mencia,Bakersfield
+6,22,Tinta Amarella,control
+6,23,Tinta Amarella,control
+6,24,Tinta Amarella,Bakersfield
+6,25,Tinta Amarella,Hopland
+6,26,Tinta Amarella,control
+6,27,Sagrantino,Bakersfield
+6,28,Sagrantino,control
+6,29,Sagrantino,Bakersfield
+6,30,Sagrantino,control
+6,31,Sagrantino,Bakersfield
+6,32,Falanghina,Bakersfield
+6,33,Falanghina,Bakersfield
+6,34,Falanghina,Bakersfield
+6,35,Falanghina,Bakersfield
+6,36,Falanghina,control
+6,37,Graciano,Bakersfield
+6,38,Graciano,Hopland
+6,39,Graciano,control
+6,40,Graciano,Hopland
+6,41,Graciano,control
+7,3,Mencia,control
+7,5,Mencia,Hopland
+7,6,Mencia,control
+7,7,Albarino,control
+7,8,Albarino,Hopland
+7,10,Albarino,Hopland
+7,12,Sagrantino,Hopland
+7,13,Sagrantino,Bakersfield
+7,14,Sagrantino,Hopland
+7,15,Sagrantino,Hopland
+7,16,Sagrantino,Hopland
+7,17,Graciano,Hopland
+7,18,Graciano,control
+7,19,Graciano,control
+7,20,Graciano,Hopland
+7,21,Graciano,Hopland
+7,22,Ciliegiolo,Hopland
+7,23,Ciliegiolo,control
+7,24,Ciliegiolo,Hopland
+7,26,Ciliegiolo,Bakersfield
+7,32,Albarino,Bakersfield
+7,33,Albarino,Hopland
+7,34,Albarino,Bakersfield
+7,35,Albarino,Hopland
+7,36,Albarino,Hopland
+7,37,Greco di Tufo,Bakersfield
+7,38,Greco di Tufo,Bakersfield
+7,39,Greco di Tufo,Hopland
+7,40,Greco di Tufo,Hopland
+7,41,Greco di Tufo,Bakersfield
+8,2,Sagrantino,Bakersfield
+8,4,Sagrantino,control
+8,5,Sagrantino,Hopland
+8,6,Sagrantino,Hopland
+8,7,Falanghina,Hopland
+8,8,Falanghina,control
+8,9,Falanghina,control
+8,10,Falanghina,Hopland
+8,11,Falanghina,Hopland
+8,12,Mencia,Hopland
+8,13,Mencia,Bakersfield
+8,15,Mencia,Bakersfield
+8,16,Mencia,Bakersfield
+8,17,Albarino,Hopland
+8,18,Albarino,Bakersfield
+8,19,Albarino,Bakersfield
+8,21,Albarino,Bakersfield
+8,22,Periquita,Bakersfield
+8,23,Periquita,control
+8,24,Periquita,Hopland
+8,25,Periquita,Hopland
+8,26,Periquita,Hopland
+8,27,Albarino,control
+8,28,Albarino,Bakersfield
+8,29,Albarino,control
+8,30,Albarino,Hopland
+8,32,Tannat,Hopland
+8,33,Tannat,Bakersfield
+8,34,Tannat,Bakersfield
+8,35,Tannat,Hopland
+8,36,Tannat,Bakersfield
+8,37,Periquita,Hopland
+8,38,Periquita,Bakersfield
+8,39,Periquita,Hopland
+8,40,Periquita,Hopland
+8,41,Periquita,Bakersfield
+9,2,Tannat,Hopland
+9,3,Tannat,Hopland
+9,4,Tannat,Bakersfield
+9,5,Tannat,Bakersfield
+9,6,Tannat,Hopland
+9,7,Tinta Amarella,Hopland
+9,8,Tinta Amarella,control
+9,9,Tinta Amarella,Bakersfield
+9,11,Tinta Amarella,control
+9,12,Petit Manseng,Hopland
+9,13,Petit Manseng,Bakersfield
+9,14,Petit Manseng,Bakersfield
+9,15,Petit Manseng,control
+9,16,Petit Manseng,control
+9,17,Teroldego,Bakersfield
+9,18,Teroldego,Bakersfield
+9,19,Teroldego,Hopland
+9,20,Teroldego,Hopland
+9,27,Tannat,Hopland
+9,28,Tannat,Bakersfield
+9,29,Tannat,Hopland
+9,30,Tannat,Hopland
+9,31,Tannat,control
+9,32,Periquita,Bakersfield
+9,33,Periquita,Bakersfield
+9,34,Periquita,Bakersfield
+9,35,Periquita,Hopland
+9,37,Mencia,control
+9,38,Mencia,control
+9,39,Mencia,Bakersfield
+9,40,Mencia,control
+9,41,Mencia,control
+10,2,Periquita,Bakersfield
+10,3,Periquita,Bakersfield
+10,4,Periquita,control
+10,5,Periquita,control
+10,6,Periquita,Bakersfield
+10,7,Mencia,Bakersfield
+10,8,Mencia,Bakersfield
+10,10,Mencia,Hopland
+10,11,Mencia,Bakersfield
+10,17,Greco di Tufo,control
+10,18,Greco di Tufo,Bakersfield
+10,19,Greco di Tufo,Hopland
+10,20,Greco di Tufo,Bakersfield
+10,21,Greco di Tufo,control
+10,22,Tinta Francisca,control
+10,23,Tinta Francisca,Bakersfield
+10,24,Tinta Francisca,Bakersfield
+10,25,Tinta Francisca,control
+10,26,Tinta Francisca,Bakersfield
+10,27,Petit Manseng,Bakersfield
+10,28,Petit Manseng,Hopland
+10,29,Petit Manseng,control
+10,30,Petit Manseng,control
+10,31,Petit Manseng,control
+10,32,Teroldego,Bakersfield
+10,33,Teroldego,Bakersfield
+10,34,Teroldego,Bakersfield
+10,35,Teroldego,control
+10,36,Teroldego,control
+10,37,Tannat,Bakersfield
+10,38,Tannat,control
+10,39,Tannat,Hopland
+10,40,Tannat,Hopland
+10,41,Tannat,Bakersfield
+11,2,Tinta Francisca,Hopland
+11,3,Tinta Francisca,Bakersfield
+11,4,Tinta Francisca,Bakersfield
+11,5,Tinta Francisca,Hopland
+11,6,Tinta Francisca,Hopland
+11,7,Graciano,control
+11,8,Graciano,Hopland
+11,9,Graciano,Bakersfield
+11,10,Graciano,Hopland
+11,11,Graciano,control
+11,12,Periquita,Bakersfield
+11,13,Periquita,control
+11,14,Periquita,control
+11,15,Periquita,control
+11,16,Periquita,Hopland
+11,17,Tinta Amarella,Hopland
+11,18,Tinta Amarella,control
+11,19,Tinta Amarella,Hopland
+11,20,Tinta Amarella,Bakersfield
+11,21,Tinta Amarella,Hopland
+11,22,Falanghina,control
+11,23,Falanghina,Bakersfield
+11,24,Falanghina,Bakersfield
+11,25,Falanghina,control
+11,26,Falanghina,Hopland
+11,27,Mencia,Bakersfield
+11,28,Mencia,Hopland
+11,29,Mencia,control
+11,30,Mencia,Bakersfield
+11,31,Mencia,Hopland
+11,32,Ciliegiolo,Hopland
+11,33,Ciliegiolo,control
+11,34,Ciliegiolo,Hopland
+11,35,Ciliegiolo,control
+11,36,Ciliegiolo,Bakersfield
+11,37,Teroldego,control
+11,38,Teroldego,Bakersfield
+11,39,Teroldego,Bakersfield
+11,40,Teroldego,Bakersfield
+11,41,Teroldego,Hopland
+12,2,Petit Manseng,control
+12,3,Petit Manseng,Hopland
+12,4,Petit Manseng,Hopland
+12,5,Petit Manseng,control
+12,6,Petit Manseng,Bakersfield
+12,7,Tinta Francisca,Hopland
+12,8,Tinta Francisca,Hopland
+12,9,Tinta Francisca,Bakersfield
+12,10,Tinta Francisca,Bakersfield
+12,11,Tinta Francisca,Bakersfield
+12,12,Tannat,Bakersfield
+12,13,Tannat,control
+12,14,Tannat,control
+12,15,Tannat,Bakersfield
+12,16,Tannat,Hopland
+12,17,Ciliegiolo,Hopland
+12,19,Ciliegiolo,Bakersfield
+12,20,Ciliegiolo,Bakersfield
+12,21,Ciliegiolo,Bakersfield
+12,22,Graciano,Bakersfield
+12,23,Graciano,Bakersfield
+12,24,Graciano,Bakersfield
+12,25,Graciano,control
+12,26,Graciano,control
+12,27,Periquita,Bakersfield
+12,28,Periquita,Hopland
+12,29,Periquita,Bakersfield
+12,30,Periquita,control
+12,31,Periquita,Hopland
+12,32,Mencia,Hopland
+12,33,Mencia,Hopland
+12,35,Mencia,control
+12,36,Mencia,Hopland
+12,37,Tinta Amarella,control
+12,38,Tinta Amarella,Hopland
+12,39,Tinta Amarella,Bakersfield
+12,40,Tinta Amarella,Bakersfield
+12,41,Tinta Amarella,Bakersfield
+13,7,Ciliegiolo,Hopland
+13,8,Ciliegiolo,Hopland
+13,9,Ciliegiolo,Hopland
+13,10,Ciliegiolo,Hopland
+13,11,Ciliegiolo,Hopland
+13,12,Graciano,control
+13,13,Graciano,Hopland
+13,14,Graciano,Bakersfield
+13,15,Graciano,Bakersfield
+13,16,Graciano,Hopland
+13,17,Falanghina,Bakersfield
+13,18,Falanghina,control
+13,19,Falanghina,Bakersfield
+13,20,Falanghina,control
+13,21,Falanghina,Hopland
+13,22,Sagrantino,Bakersfield
+13,23,Sagrantino,control
+13,24,Sagrantino,Hopland
+13,26,Sagrantino,Bakersfield
+13,27,Tinta Amarella,Hopland
+13,28,Tinta Amarella,Bakersfield
+13,29,Tinta Amarella,Bakersfield
+13,30,Tinta Amarella,Bakersfield
+13,31,Tinta Amarella,control
+13,32,Greco di Tufo,Hopland
+13,33,Greco di Tufo,Hopland
+13,34,Greco di Tufo,Bakersfield
+13,35,Greco di Tufo,Bakersfield
+13,36,Greco di Tufo,control
+13,37,Tinta Francisca,control
+13,38,Tinta Francisca,Bakersfield
+13,39,Tinta Francisca,Hopland
+13,40,Tinta Francisca,Hopland
+13,41,Tinta Francisca,Hopland
+14,7,Tannat,control
+14,8,Tannat,Hopland
+14,9,Tannat,Bakersfield
+14,10,Tannat,control
+14,11,Tannat,Bakersfield
+14,12,Tinta Amarella,Hopland
+14,13,Tinta Amarella,Bakersfield
+14,14,Tinta Amarella,Hopland
+14,15,Tinta Amarella,Bakersfield
+14,16,Tinta Amarella,Hopland
+14,17,Periquita,Bakersfield
+14,18,Periquita,Bakersfield
+14,19,Periquita,control
+14,20,Periquita,Hopland
+14,21,Periquita,Hopland
+14,22,Tannat,control
+14,23,Tannat,Hopland
+14,24,Tannat,Bakersfield
+14,25,Tannat,control
+14,26,Tannat,Hopland
+14,27,Greco di Tufo,Hopland
+14,28,Greco di Tufo,Hopland
+14,29,Greco di Tufo,control
+14,30,Greco di Tufo,Bakersfield
+14,31,Greco di Tufo,Bakersfield
+14,32,Sagrantino,Hopland
+14,33,Sagrantino,control
+14,34,Sagrantino,control
+14,35,Sagrantino,control
+14,37,Petit Manseng,Hopland
+14,38,Petit Manseng,Hopland
+14,39,Petit Manseng,Bakersfield
+14,40,Petit Manseng,Bakersfield
+15,3,Tinta Amarella,Hopland
+15,4,Tinta Amarella,Bakersfield
+15,5,Tinta Amarella,Hopland
+15,6,Tinta Amarella,Hopland
+15,7,Teroldego,Bakersfield
+15,9,Teroldego,Hopland
+15,10,Teroldego,control
+15,11,Teroldego,Hopland
+15,12,Falanghina,Bakersfield
+15,13,Falanghina,Bakersfield
+15,14,Falanghina,Hopland
+15,15,Falanghina,Bakersfield
+15,16,Falanghina,Hopland
+15,17,Sagrantino,control
+15,18,Sagrantino,Hopland
+15,19,Sagrantino,Bakersfield
+15,20,Sagrantino,control
+15,21,Sagrantino,Hopland
+15,22,Mencia,Hopland
+15,23,Mencia,control
+15,24,Mencia,Bakersfield
+15,25,Mencia,control
+15,26,Mencia,Bakersfield
+15,27,Ciliegiolo,Bakersfield
+15,28,Ciliegiolo,Bakersfield
+15,29,Ciliegiolo,control
+15,30,Ciliegiolo,Hopland
+15,31,Ciliegiolo,Bakersfield
+15,33,Tinta Francisca,Bakersfield
+15,34,Tinta Francisca,control
+15,35,Tinta Francisca,control
+15,36,Tinta Francisca,Hopland
+16,3,Greco di Tufo,Bakersfield
+16,4,Greco di Tufo,Hopland
+16,6,Greco di Tufo,Hopland
+16,12,Tinta Francisca,control
+16,13,Tinta Francisca,control
+16,14,Tinta Francisca,Hopland
+16,16,Tinta Francisca,Bakersfield
+16,17,Tannat,control
+16,18,Tannat,Hopland
+16,19,Tannat,control
+16,20,Tannat,Bakersfield
+16,21,Tannat,Bakersfield
+16,22,Teroldego,Bakersfield
+16,23,Teroldego,Hopland
+16,24,Teroldego,Bakersfield
+16,25,Teroldego,Hopland
+16,26,Teroldego,Hopland
+16,27,Graciano,Hopland
+16,28,Graciano,Bakersfield
+16,29,Graciano,Bakersfield
+16,30,Graciano,Bakersfield
+16,32,Petit Manseng,Bakersfield
+16,33,Petit Manseng,Bakersfield
+16,34,Petit Manseng,Hopland
+16,36,Petit Manseng,Bakersfield
+16,37,Sagrantino,Bakersfield
