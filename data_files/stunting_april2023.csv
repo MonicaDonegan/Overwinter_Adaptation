@@ -1,0 +1,2422 @@
+Row,Vine,Variety,flag color,values,ind,month
+2,22,Albarino,yellow,8,W,April
+2,23,Albarino,yellow,4,W,April
+2,24,Albarino,yellow,13,W,April
+2,25,Albarino,pink,6,W,April
+3,2,Teroldego,red/orange,2,W,April
+3,3,Teroldego,pink,5,W,April
+3,4,Teroldego,yellow,10,W,April
+3,5,Teroldego,pink,8,W,April
+3,6,Teroldego,yellow,5,W,April
+3,7,Sagrantino,pink,5,W,April
+3,8,Sagrantino,yellow,8,W,April
+3,9,Sagrantino,yellow,1,W,April
+3,10,Sagrantino,red/orange,5,W,April
+3,11,Sagrantino,yellow,1,W,April
+3,12,Greco di Tufo,red/orange,0,W,April
+3,13,Greco di Tufo,yellow,4,W,April
+3,14,Greco di Tufo,pink,3,W,April
+3,15,Greco di Tufo,yellow,3,W,April
+3,16,Greco di Tufo,yellow,1,W,April
+3,17,Tinta Francisca,red/orange,1,W,April
+3,18,Tinta Francisca,red/orange,1,W,April
+3,19,Tinta Francisca,yellow,0,W,April
+3,20,Tinta Francisca,yellow,5,W,April
+3,21,Tinta Francisca,pink,2,W,April
+3,22,Petit Manseng,yellow,8,W,April
+3,23,Petit Manseng,red/orange,0,W,April
+3,24,Petit Manseng,red/orange,1,W,April
+3,25,Petit Manseng,red/orange,1,W,April
+3,26,Petit Manseng,red/orange,7,W,April
+3,27,Falanghina,yellow,2,W,April
+3,28,Falanghina,red/orange,4,W,April
+3,29,Falanghina,red/orange,1,W,April
+3,30,Falanghina,red/orange,5,W,April
+3,31,Falanghina,pink,2,W,April
+4,2,Falanghina,yellow,3,W,April
+4,3,Falanghina,pink,5,W,April
+4,4,Falanghina,red/orange,5,W,April
+4,5,Falanghina,red/orange,3,W,April
+4,6,Falanghina,red/orange,0,W,April
+4,7,Greco di Tufo,pink,3,W,April
+4,8,Greco di Tufo,red/orange,0,W,April
+4,9,Greco di Tufo,red/orange,0,W,April
+4,10,Greco di Tufo,pink,3,W,April
+4,11,Greco di Tufo,yellow,2,W,April
+4,12,Albarino,pink,6,W,April
+4,13,Albarino,yellow,10,W,April
+4,14,Albarino,red/orange,7,W,April
+4,16,Albarino,red/orange,1,W,April
+4,23,Albarino,red/orange,2,W,April
+4,24,Albarino,yellow,3,W,April
+4,25,Albarino,red/orange,4,W,April
+4,26,Albarino,pink,4,W,April
+4,27,Tinta Francisca,pink,3,W,April
+4,28,Tinta Francisca,red/orange,2,W,April
+4,29,Tinta Francisca,red/orange,3,W,April
+4,30,Tinta Francisca,pink,5,W,April
+4,31,Tinta Francisca,yellow,4,W,April
+4,32,Graciano,red/orange,0,W,April
+4,33,Graciano,pink,1,W,April
+4,34,Graciano,yellow,0,W,April
+4,35,Graciano,yellow,0,W,April
+4,36,Graciano,red/orange,0,W,April
+4,37,Ciliegiolo,pink,2,W,April
+4,38,Ciliegiolo,yellow,2,W,April
+4,39,Ciliegiolo,red/orange,0,W,April
+4,40,Ciliegiolo,pink,1,W,April
+4,41,Ciliegiolo,pink,4,W,April
+5,2,Ciliegiolo,yellow,4,W,April
+5,3,Ciliegiolo,red/orange,2,W,April
+5,4,Ciliegiolo,yellow,5,W,April
+5,5,Ciliegiolo,pink,4,W,April
+5,6,Ciliegiolo,yellow,3,W,April
+5,7,Periquita,red/orange,1,W,April
+5,8,Periquita,red/orange,1,W,April
+5,9,Periquita,pink,7,W,April
+5,10,Periquita,pink,1,W,April
+5,11,Periquita,yellow,1,W,April
+5,12,Ciliegiolo,yellow,3,W,April
+5,13,Ciliegiolo,red/orange,1,W,April
+5,14,Ciliegiolo,pink,6,W,April
+5,15,Ciliegiolo,pink,6,W,April
+5,16,Ciliegiolo,yellow,4,W,April
+5,17,Petit Manseng,pink,1,W,April
+5,18,Petit Manseng,pink,3,W,April
+5,19,Petit Manseng,pink,3,W,April
+5,20,Petit Manseng,yellow,5,W,April
+5,22,Greco di Tufo,pink,2,W,April
+5,23,Greco di Tufo,red/orange,0,W,April
+5,24,Greco di Tufo,pink,5,W,April
+5,25,Greco di Tufo,red/orange,0,W,April
+5,26,Greco di Tufo,pink,5,W,April
+5,27,Teroldego,red/orange,10,W,April
+5,28,Teroldego,pink,7,W,April
+5,29,Teroldego,red/orange,4,W,April
+5,30,Teroldego,red/orange,6,W,April
+5,31,Teroldego,pink,9,W,April
+5,32,Tinta Amarella,yellow,2,W,April
+5,33,Tinta Amarella,yellow,3,W,April
+5,34,Tinta Amarella,red/orange,1,W,April
+5,35,Tinta Amarella,pink,6,W,April
+5,36,Tinta Amarella,pink,3,W,April
+5,37,Falanghina,yellow,5,W,April
+5,38,Falanghina,red/orange,4,W,April
+5,39,Falanghina,red/orange,4,W,April
+5,40,Falanghina,yellow,1,W,April
+5,41,Falanghina,pink,1,W,April
+6,2,Albarino,yellow,10,W,April
+6,3,Albarino,pink,6,W,April
+6,4,Albarino,red/orange,5,W,April
+6,5,Albarino,pink,6,W,April
+6,6,Albarino,pink,8,W,April
+6,7,Petit Manseng,yellow,4,W,April
+6,8,Petit Manseng,red/orange,1,W,April
+6,9,Petit Manseng,yellow,4,W,April
+6,11,Petit Manseng,red/orange,4,W,April
+6,12,Teroldego,red/orange,2,W,April
+6,13,Teroldego,pink,9,W,April
+6,14,Teroldego,yellow,7,W,April
+6,15,Teroldego,pink,15,W,April
+6,16,Teroldego,red/orange,2,W,April
+6,17,Mencia,yellow,1,W,April
+6,18,Mencia,red/orange,3,W,April
+6,19,Mencia,red/orange,2,W,April
+6,20,Mencia,red/orange,1,W,April
+6,21,Mencia,yellow,2,W,April
+6,22,Tinta Amarella,pink,5,W,April
+6,23,Tinta Amarella,pink,5,W,April
+6,24,Tinta Amarella,yellow,2,W,April
+6,25,Tinta Amarella,red/orange,4,W,April
+6,26,Tinta Amarella,pink,4,W,April
+6,27,Sagrantino,yellow,5,W,April
+6,28,Sagrantino,pink,3,W,April
+6,29,Sagrantino,yellow,3,W,April
+6,30,Sagrantino,pink,8,W,April
+6,31,Sagrantino,yellow,3,W,April
+6,32,Falanghina,yellow,6,W,April
+6,33,Falanghina,yellow,7,W,April
+6,34,Falanghina,yellow,1,W,April
+6,35,Falanghina,yellow,6,W,April
+6,36,Falanghina,pink,7,W,April
+6,37,Graciano,yellow,1,W,April
+6,38,Graciano,red/orange,1,W,April
+6,39,Graciano,pink,0,W,April
+6,40,Graciano,red/orange,1,W,April
+6,41,Graciano,pink,3,W,April
+7,3,Mencia,pink,1,W,April
+7,5,Mencia,red/orange,1,W,April
+7,6,Mencia,pink,7,W,April
+7,7,Albarino,pink,7,W,April
+7,8,Albarino,red/orange,3,W,April
+7,10,Albarino,red/orange,5,W,April
+7,12,Sagrantino,red/orange,4,W,April
+7,13,Sagrantino,yellow,1,W,April
+7,14,Sagrantino,red/orange,4,W,April
+7,15,Sagrantino,red/orange,2,W,April
+7,16,Sagrantino,red/orange,4,W,April
+7,17,Graciano,red/orange,1,W,April
+7,18,Graciano,pink,1,W,April
+7,19,Graciano,pink,1,W,April
+7,20,Graciano,red/orange,1,W,April
+7,21,Graciano,red/orange,1,W,April
+7,22,Ciliegiolo,red/orange,4,W,April
+7,23,Ciliegiolo,pink,5,W,April
+7,24,Ciliegiolo,red/orange,5,W,April
+7,26,Ciliegiolo,yellow,4,W,April
+7,32,Albarino,yellow,5,W,April
+7,33,Albarino,red/orange,9,W,April
+7,34,Albarino,yellow,9,W,April
+7,35,Albarino,red/orange,2,W,April
+7,36,Albarino,red/orange,0,W,April
+7,37,Greco di Tufo,yellow,1,W,April
+7,38,Greco di Tufo,yellow,2,W,April
+7,39,Greco di Tufo,red/orange,5,W,April
+7,40,Greco di Tufo,red/orange,4,W,April
+7,41,Greco di Tufo,yellow,4,W,April
+8,2,Sagrantino,yellow,6,W,April
+8,4,Sagrantino,pink,3,W,April
+8,5,Sagrantino,red/orange,2,W,April
+8,6,Sagrantino,red/orange,0,W,April
+8,7,Falanghina,red/orange,2,W,April
+8,8,Falanghina,pink,5,W,April
+8,9,Falanghina,pink,4,W,April
+8,10,Falanghina,red/orange,7,W,April
+8,11,Falanghina,red/orange,6,W,April
+8,12,Mencia,red/orange,1,W,April
+8,13,Mencia,yellow,1,W,April
+8,15,Mencia,yellow,1,W,April
+8,16,Mencia,yellow,3,W,April
+8,17,Albarino,red/orange,5,W,April
+8,18,Albarino,yellow,5,W,April
+8,19,Albarino,yellow,1,W,April
+8,21,Albarino,yellow,4,W,April
+8,22,Periquita,yellow,5,W,April
+8,23,Periquita,pink,6,W,April
+8,24,Periquita,red/orange,3,W,April
+8,25,Periquita,red/orange,1,W,April
+8,26,Periquita,red/orange,5,W,April
+8,27,Albarino,pink,3,W,April
+8,28,Albarino,yellow,3,W,April
+8,29,Albarino,pink,5,W,April
+8,30,Albarino,red/orange,4,W,April
+8,32,Tannat,red/orange,1,W,April
+8,33,Tannat,yellow,0,W,April
+8,34,Tannat,yellow,0,W,April
+8,35,Tannat,red/orange,1,W,April
+8,36,Tannat,yellow,0,W,April
+8,37,Periquita,red/orange,3,W,April
+8,38,Periquita,yellow,7,W,April
+8,39,Periquita,red/orange,5,W,April
+8,40,Periquita,red/orange,6,W,April
+8,41,Periquita,yellow,3,W,April
+9,2,Tannat,red/orange,1,W,April
+9,4,Tannat,yellow,1,W,April
+9,6,Tannat,red/orange,0,W,April
+9,7,Tinta Amarella,red/orange,3,W,April
+9,8,Tinta Amarella,pink,2,W,April
+9,11,Tinta Amarella,pink,2,W,April
+9,12,Petit Manseng,red/orange,3,W,April
+9,13,Petit Manseng,yellow,5,W,April
+9,14,Petit Manseng,yellow,2,W,April
+9,15,Petit Manseng,pink,4,W,April
+9,16,Petit Manseng,pink,4,W,April
+9,17,Teroldego,yellow,9,W,April
+9,18,Teroldego,yellow,4,W,April
+9,19,Teroldego,red/orange,10,W,April
+9,20,Teroldego,red/orange,8,W,April
+9,27,Tannat,red/orange,1,W,April
+9,28,Tannat,yellow,0,W,April
+9,29,Tannat,red/orange,0,W,April
+9,30,Tannat,red/orange,0,W,April
+9,31,Tannat,pink,1,W,April
+9,32,Periquita,yellow,4,W,April
+9,33,Periquita,yellow,6,W,April
+9,34,Periquita,yellow,1,W,April
+9,35,Periquita,red/orange,5,W,April
+9,37,Mencia,pink,2,W,April
+9,38,Mencia,pink,1,W,April
+9,39,Mencia,yellow,2,W,April
+9,40,Mencia,pink,1,W,April
+9,41,Mencia,pink,1,W,April
+10,2,Periquita,yellow,2,W,April
+10,3,Periquita,yellow,6,W,April
+10,4,Periquita,pink,4,W,April
+10,5,Periquita,pink,3.5,W,April
+10,6,Periquita,yellow,8,W,April
+10,7,Mencia,yellow,3,W,April
+10,8,Mencia,yellow,1,W,April
+10,10,Mencia,red/orange,1,W,April
+10,11,Mencia,yellow,3,W,April
+10,17,Greco di Tufo,pink,7,W,April
+10,18,Greco di Tufo,yellow,1.5,W,April
+10,19,Greco di Tufo,red/orange,4.5,W,April
+10,20,Greco di Tufo,yellow,3,W,April
+10,21,Greco di Tufo,pink,5,W,April
+10,22,Tinta Francisca,pink,1,W,April
+10,23,Tinta Francisca,yellow,1,W,April
+10,24,Tinta Francisca,yellow,1,W,April
+10,25,Tinta Francisca,pink,3,W,April
+10,26,Tinta Francisca,yellow,1,W,April
+10,27,Petit Manseng,yellow,2,W,April
+10,28,Petit Manseng,red/orange,4,W,April
+10,29,Petit Manseng,pink,0,W,April
+10,30,Petit Manseng,pink,3,W,April
+10,31,Petit Manseng,pink,2,W,April
+10,32,Teroldego,yellow,1,W,April
+10,33,Teroldego,yellow,5,W,April
+10,34,Teroldego,yellow,4,W,April
+10,35,Teroldego,pink,3,W,April
+10,36,Teroldego,pink,4,W,April
+10,37,Tannat,yellow,0,W,April
+10,38,Tannat,pink,2,W,April
+10,39,Tannat,red/orange,1,W,April
+10,40,Tannat,red/orange,1,W,April
+10,41,Tannat,yellow,1,W,April
+11,2,Tinta Francisca,red/orange,0,W,April
+11,3,Tinta Francisca,yellow,1,W,April
+11,4,Tinta Francisca,yellow,1,W,April
+11,5,Tinta Francisca,red/orange,1,W,April
+11,6,Tinta Francisca,red/orange,2,W,April
+11,7,Graciano,pink,1,W,April
+11,8,Graciano,red/orange,1,W,April
+11,9,Graciano,yellow,2,W,April
+11,10,Graciano,red/orange,1,W,April
+11,11,Graciano,pink,2,W,April
+11,12,Periquita,yellow,3,W,April
+11,13,Periquita,pink,1,W,April
+11,14,Periquita,pink,7,W,April
+11,15,Periquita,pink,6,W,April
+11,16,Periquita,red/orange,5,W,April
+11,17,Tinta Amarella,red/orange,5,W,April
+11,18,Tinta Amarella,pink,5,W,April
+11,19,Tinta Amarella,red/orange,1,W,April
+11,20,Tinta Amarella,yellow,2,W,April
+11,21,Tinta Amarella,red/orange,5,W,April
+11,22,Falanghina,pink,7,W,April
+11,23,Falanghina,yellow,1,W,April
+11,24,Falanghina,yellow,8,W,April
+11,25,Falanghina,pink,11,W,April
+11,26,Falanghina,red/orange,4,W,April
+11,27,Mencia,yellow,1,W,April
+11,28,Mencia,red/orange,2,W,April
+11,29,Mencia,pink,1,W,April
+11,30,Mencia,yellow,2,W,April
+11,31,Mencia,red/orange,3,W,April
+11,32,Ciliegiolo,red/orange,2,W,April
+11,33,Ciliegiolo,pink,4,W,April
+11,34,Ciliegiolo,red/orange,6,W,April
+11,35,Ciliegiolo,pink,3,W,April
+11,36,Ciliegiolo,yellow,5,W,April
+11,37,Teroldego,pink,7,W,April
+11,38,Teroldego,yellow,8,W,April
+11,39,Teroldego,yellow,8,W,April
+11,40,Teroldego,yellow,5,W,April
+11,41,Teroldego,red/orange,1,W,April
+12,2,Petit Manseng,pink,2,W,April
+12,3,Petit Manseng,red/orange,2,W,April
+12,4,Petit Manseng,red/orange,4,W,April
+12,5,Petit Manseng,pink,4,W,April
+12,6,Petit Manseng,yellow,6,W,April
+12,7,Tinta Francisca,red/orange,4,W,April
+12,8,Tinta Francisca,red/orange,4,W,April
+12,9,Tinta Francisca,yellow,3,W,April
+12,10,Tinta Francisca,yellow,2,W,April
+12,11,Tinta Francisca,yellow,6,W,April
+12,12,Tannat,yellow,0,W,April
+12,13,Tannat,pink,2,W,April
+12,14,Tannat,pink,2,W,April
+12,15,Tannat,yellow,2,W,April
+12,16,Tannat,red/orange,4,W,April
+12,17,Ciliegiolo,red/orange,6,W,April
+12,19,Ciliegiolo,yellow,5,W,April
+12,20,Ciliegiolo,yellow,4,W,April
+12,21,Ciliegiolo,yellow,5,W,April
+12,22,Graciano,yellow,1,W,April
+12,23,Graciano,yellow,1,W,April
+12,24,Graciano,yellow,1,W,April
+12,25,Graciano,pink,1,W,April
+12,26,Graciano,pink,1,W,April
+12,27,Periquita,yellow,1,W,April
+12,28,Periquita,red/orange,5,W,April
+12,29,Periquita,yellow,7,W,April
+12,30,Periquita,pink,2,W,April
+12,31,Periquita,red/orange,3,W,April
+12,32,Mencia,red/orange,2,W,April
+12,33,Mencia,red/orange,1,W,April
+12,35,Mencia,pink,1,W,April
+12,36,Mencia,red/orange,1,W,April
+12,37,Tinta Amarella,pink,2,W,April
+12,38,Tinta Amarella,red/orange,5,W,April
+12,39,Tinta Amarella,yellow,2,W,April
+12,40,Tinta Amarella,yellow,1,W,April
+12,41,Tinta Amarella,yellow,2,W,April
+13,7,Ciliegiolo,red/orange,3,W,April
+13,8,Ciliegiolo,red/orange,4,W,April
+13,9,Ciliegiolo,red/orange,3,W,April
+13,10,Ciliegiolo,red/orange,3,W,April
+13,11,Ciliegiolo,red/orange,4,W,April
+13,12,Graciano,pink,2,W,April
+13,13,Graciano,red/orange,1,W,April
+13,14,Graciano,yellow,1,W,April
+13,15,Graciano,yellow,1,W,April
+13,16,Graciano,red/orange,2,W,April
+13,17,Falanghina,yellow,5,W,April
+13,18,Falanghina,pink,7,W,April
+13,19,Falanghina,yellow,7,W,April
+13,20,Falanghina,pink,4,W,April
+13,21,Falanghina,red/orange,3,W,April
+13,22,Sagrantino,yellow,3,W,April
+13,23,Sagrantino,pink,4,W,April
+13,24,Sagrantino,red/orange,3,W,April
+13,26,Sagrantino,yellow,5,W,April
+13,27,Tinta Amarella,red/orange,2,W,April
+13,28,Tinta Amarella,yellow,2,W,April
+13,29,Tinta Amarella,yellow,4,W,April
+13,30,Tinta Amarella,yellow,2,W,April
+13,31,Tinta Amarella,pink,2,W,April
+13,32,Greco di Tufo,red/orange,3,W,April
+13,33,Greco di Tufo,red/orange,1,W,April
+13,34,Greco di Tufo,yellow,2,W,April
+13,35,Greco di Tufo,yellow,4,W,April
+13,36,Greco di Tufo,pink,2,W,April
+13,37,Tinta Francisca,pink,3,W,April
+13,38,Tinta Francisca,yellow,1,W,April
+13,39,Tinta Francisca,red/orange,1,W,April
+13,40,Tinta Francisca,red/orange,0,W,April
+13,41,Tinta Francisca,red/orange,4,W,April
+14,7,Tannat,pink,2,W,April
+14,8,Tannat,red/orange,3,W,April
+14,9,Tannat,yellow,5,W,April
+14,10,Tannat,pink,4,W,April
+14,11,Tannat,yellow,2,W,April
+14,12,Tinta Amarella,red/orange,4,W,April
+14,13,Tinta Amarella,yellow,5,W,April
+14,14,Tinta Amarella,red/orange,3,W,April
+14,15,Tinta Amarella,yellow,5,W,April
+14,16,Tinta Amarella,red/orange,8,W,April
+14,17,Periquita,yellow,6,W,April
+14,18,Periquita,yellow,9,W,April
+14,19,Periquita,pink,3,W,April
+14,20,Periquita,red/orange,9,W,April
+14,21,Periquita,red/orange,4,W,April
+14,22,Tannat,pink,1,W,April
+14,23,Tannat,red/orange,2,W,April
+14,24,Tannat,yellow,3,W,April
+14,25,Tannat,pink,0,W,April
+14,26,Tannat,red/orange,2,W,April
+14,27,Greco di Tufo,red/orange,1,W,April
+14,28,Greco di Tufo,red/orange,3,W,April
+14,29,Greco di Tufo,pink,4,W,April
+14,30,Greco di Tufo,yellow,2,W,April
+14,31,Greco di Tufo,yellow,2,W,April
+14,32,Sagrantino,red/orange,2,W,April
+14,33,Sagrantino,pink,2,W,April
+14,34,Sagrantino,pink,3,W,April
+14,35,Sagrantino,pink,4,W,April
+14,37,Petit Manseng,red/orange,1,W,April
+14,38,Petit Manseng,red/orange,3,W,April
+14,39,Petit Manseng,yellow,1,W,April
+14,40,Petit Manseng,yellow,6,W,April
+15,3,Tinta Amarella,red/orange,1,W,April
+15,4,Tinta Amarella,yellow,5,W,April
+15,5,Tinta Amarella,red/orange,8,W,April
+15,6,Tinta Amarella,red/orange,7,W,April
+15,7,Teroldego,yellow,11,W,April
+15,9,Teroldego,red/orange,1,W,April
+15,10,Teroldego,pink,8,W,April
+15,11,Teroldego,red/orange,10,W,April
+15,12,Falanghina,yellow,4,W,April
+15,13,Falanghina,yellow,4,W,April
+15,14,Falanghina,red/orange,6,W,April
+15,15,Falanghina,yellow,3,W,April
+15,16,Falanghina,red/orange,4,W,April
+15,17,Sagrantino,pink,8,W,April
+15,18,Sagrantino,red/orange,7,W,April
+15,19,Sagrantino,yellow,4,W,April
+15,20,Sagrantino,pink,7,W,April
+15,21,Sagrantino,red/orange,7,W,April
+15,22,Mencia,red/orange,1,W,April
+15,23,Mencia,pink,2,W,April
+15,24,Mencia,yellow,1,W,April
+15,25,Mencia,pink,2,W,April
+15,26,Mencia,yellow,3,W,April
+15,27,Ciliegiolo,yellow,4,W,April
+15,28,Ciliegiolo,yellow,6,W,April
+15,29,Ciliegiolo,pink,3,W,April
+15,30,Ciliegiolo,red/orange,4,W,April
+15,31,Ciliegiolo,yellow,3,W,April
+15,33,Tinta Francisca,yellow,1,W,April
+15,34,Tinta Francisca,pink,1,W,April
+15,35,Tinta Francisca,pink,2,W,April
+15,36,Tinta Francisca,red/orange,0,W,April
+16,3,Greco di Tufo,yellow,8,W,April
+16,4,Greco di Tufo,red/orange,9,W,April
+16,6,Greco di Tufo,red/orange,8,W,April
+16,12,Tinta Francisca,pink,2,W,April
+16,13,Tinta Francisca,pink,2,W,April
+16,14,Tinta Francisca,red/orange,2,W,April
+16,16,Tinta Francisca,yellow,1,W,April
+16,17,Tannat,pink,0,W,April
+16,18,Tannat,red/orange,1,W,April
+16,19,Tannat,pink,6,W,April
+16,20,Tannat,yellow,4,W,April
+16,21,Tannat,yellow,5,W,April
+16,22,Teroldego,yellow,9,W,April
+16,23,Teroldego,red/orange,6,W,April
+16,24,Teroldego,yellow,14,W,April
+16,25,Teroldego,red/orange,9,W,April
+16,26,Teroldego,red/orange,6,W,April
+16,27,Graciano,red/orange,1,W,April
+16,28,Graciano,yellow,1,W,April
+16,29,Graciano,yellow,1,W,April
+16,30,Graciano,yellow,0,W,April
+16,32,Petit Manseng,yellow,5,W,April
+16,33,Petit Manseng,yellow,4,W,April
+16,34,Petit Manseng,red/orange,1,W,April
+16,36,Petit Manseng,yellow,2,W,April
+16,37,Sagrantino,yellow,2,W,April
+2,22,Albarino,yellow,8,W,April
+2,23,Albarino,yellow,8,W,April
+2,24,Albarino,yellow,9,W,April
+2,25,Albarino,pink,10,W,April
+3,2,Teroldego,red/orange,2,W,April
+3,3,Teroldego,pink,8,W,April
+3,4,Teroldego,yellow,5,W,April
+3,5,Teroldego,pink,7,W,April
+3,6,Teroldego,yellow,7,W,April
+3,7,Sagrantino,pink,2,W,April
+3,8,Sagrantino,yellow,3,W,April
+3,9,Sagrantino,yellow,1,W,April
+3,10,Sagrantino,red/orange,2,W,April
+3,11,Sagrantino,yellow,1,W,April
+3,12,Greco di Tufo,red/orange,0,W,April
+3,13,Greco di Tufo,yellow,2,W,April
+3,14,Greco di Tufo,pink,2,W,April
+3,15,Greco di Tufo,yellow,3,W,April
+3,16,Greco di Tufo,yellow,1,W,April
+3,17,Tinta Francisca,red/orange,1,W,April
+3,18,Tinta Francisca,red/orange,1,W,April
+3,19,Tinta Francisca,yellow,0,W,April
+3,20,Tinta Francisca,yellow,3,W,April
+3,21,Tinta Francisca,pink,2,W,April
+3,22,Petit Manseng,yellow,6,W,April
+3,23,Petit Manseng,red/orange,0,W,April
+3,24,Petit Manseng,red/orange,3,W,April
+3,25,Petit Manseng,red/orange,2,W,April
+3,26,Petit Manseng,red/orange,6,W,April
+3,27,Falanghina,yellow,4,W,April
+3,28,Falanghina,red/orange,4,W,April
+3,29,Falanghina,red/orange,1,W,April
+3,30,Falanghina,red/orange,5,W,April
+3,31,Falanghina,pink,3,W,April
+4,2,Falanghina,yellow,5,W,April
+4,3,Falanghina,pink,4,W,April
+4,4,Falanghina,red/orange,5,W,April
+4,5,Falanghina,red/orange,4,W,April
+4,6,Falanghina,red/orange,0,W,April
+4,7,Greco di Tufo,pink,3,W,April
+4,8,Greco di Tufo,red/orange,0,W,April
+4,9,Greco di Tufo,red/orange,0,W,April
+4,10,Greco di Tufo,pink,2,W,April
+4,11,Greco di Tufo,yellow,1,W,April
+4,12,Albarino,pink,6,W,April
+4,13,Albarino,yellow,8,W,April
+4,14,Albarino,red/orange,0,W,April
+4,16,Albarino,red/orange,5,W,April
+4,23,Albarino,red/orange,3,W,April
+4,24,Albarino,yellow,2,W,April
+4,25,Albarino,red/orange,5,W,April
+4,26,Albarino,pink,4,W,April
+4,27,Tinta Francisca,pink,3,W,April
+4,28,Tinta Francisca,red/orange,1,W,April
+4,29,Tinta Francisca,red/orange,2,W,April
+4,30,Tinta Francisca,pink,3,W,April
+4,31,Tinta Francisca,yellow,1,W,April
+4,32,Graciano,red/orange,0,W,April
+4,33,Graciano,pink,1,W,April
+4,34,Graciano,yellow,0,W,April
+4,35,Graciano,yellow,0,W,April
+4,36,Graciano,red/orange,0,W,April
+4,37,Ciliegiolo,pink,3,W,April
+4,38,Ciliegiolo,yellow,1,W,April
+4,39,Ciliegiolo,red/orange,0,W,April
+4,40,Ciliegiolo,pink,2,W,April
+4,41,Ciliegiolo,pink,4,W,April
+5,2,Ciliegiolo,yellow,3,W,April
+5,3,Ciliegiolo,red/orange,1,W,April
+5,4,Ciliegiolo,yellow,7,W,April
+5,5,Ciliegiolo,pink,6,W,April
+5,6,Ciliegiolo,yellow,6,W,April
+5,7,Periquita,red/orange,1,W,April
+5,8,Periquita,red/orange,1,W,April
+5,9,Periquita,pink,6,W,April
+5,10,Periquita,pink,1,W,April
+5,11,Periquita,yellow,3,W,April
+5,12,Ciliegiolo,yellow,1,W,April
+5,13,Ciliegiolo,red/orange,2,W,April
+5,14,Ciliegiolo,pink,5,W,April
+5,15,Ciliegiolo,pink,4,W,April
+5,16,Ciliegiolo,yellow,6,W,April
+5,17,Petit Manseng,pink,1,W,April
+5,18,Petit Manseng,pink,3,W,April
+5,19,Petit Manseng,pink,6,W,April
+5,20,Petit Manseng,yellow,4,W,April
+5,22,Greco di Tufo,pink,4,W,April
+5,23,Greco di Tufo,red/orange,0,W,April
+5,24,Greco di Tufo,pink,3,W,April
+5,25,Greco di Tufo,red/orange,0,W,April
+5,26,Greco di Tufo,pink,2,W,April
+5,27,Teroldego,red/orange,6,W,April
+5,28,Teroldego,pink,11,W,April
+5,29,Teroldego,red/orange,7,W,April
+5,30,Teroldego,red/orange,2,W,April
+5,31,Teroldego,pink,7,W,April
+5,32,Tinta Amarella,yellow,2,W,April
+5,33,Tinta Amarella,yellow,1,W,April
+5,34,Tinta Amarella,red/orange,2,W,April
+5,35,Tinta Amarella,pink,5,W,April
+5,36,Tinta Amarella,pink,3,W,April
+5,37,Falanghina,yellow,4,W,April
+5,38,Falanghina,red/orange,5,W,April
+5,39,Falanghina,red/orange,4,W,April
+5,40,Falanghina,yellow,1,W,April
+5,41,Falanghina,pink,1,W,April
+6,2,Albarino,yellow,7,W,April
+6,3,Albarino,pink,8,W,April
+6,4,Albarino,red/orange,6,W,April
+6,5,Albarino,pink,5,W,April
+6,6,Albarino,pink,6,W,April
+6,7,Petit Manseng,yellow,1,W,April
+6,8,Petit Manseng,red/orange,1,W,April
+6,9,Petit Manseng,yellow,4,W,April
+6,11,Petit Manseng,red/orange,6,W,April
+6,12,Teroldego,red/orange,6,W,April
+6,13,Teroldego,pink,4,W,April
+6,14,Teroldego,yellow,10,W,April
+6,15,Teroldego,pink,12,W,April
+6,16,Teroldego,red/orange,1,W,April
+6,17,Mencia,yellow,1,W,April
+6,18,Mencia,red/orange,3,W,April
+6,19,Mencia,red/orange,1,W,April
+6,20,Mencia,red/orange,3,W,April
+6,21,Mencia,yellow,2,W,April
+6,22,Tinta Amarella,pink,4,W,April
+6,23,Tinta Amarella,pink,6,W,April
+6,24,Tinta Amarella,yellow,1,W,April
+6,25,Tinta Amarella,red/orange,3,W,April
+6,26,Tinta Amarella,pink,3,W,April
+6,27,Sagrantino,yellow,3,W,April
+6,28,Sagrantino,pink,2,W,April
+6,29,Sagrantino,yellow,3,W,April
+6,30,Sagrantino,pink,6,W,April
+6,31,Sagrantino,yellow,1,W,April
+6,32,Falanghina,yellow,1,W,April
+6,33,Falanghina,yellow,9,W,April
+6,34,Falanghina,yellow,2,W,April
+6,35,Falanghina,yellow,5,W,April
+6,36,Falanghina,pink,7,W,April
+6,37,Graciano,yellow,1,W,April
+6,38,Graciano,red/orange,1,W,April
+6,39,Graciano,pink,1,W,April
+6,40,Graciano,red/orange,1,W,April
+6,41,Graciano,pink,3,W,April
+7,3,Mencia,pink,1,W,April
+7,5,Mencia,red/orange,1,W,April
+7,6,Mencia,pink,3,W,April
+7,7,Albarino,pink,2,W,April
+7,8,Albarino,red/orange,2,W,April
+7,10,Albarino,red/orange,6,W,April
+7,12,Sagrantino,red/orange,1,W,April
+7,13,Sagrantino,yellow,1,W,April
+7,14,Sagrantino,red/orange,2,W,April
+7,15,Sagrantino,red/orange,2,W,April
+7,16,Sagrantino,red/orange,1,W,April
+7,17,Graciano,red/orange,1,W,April
+7,18,Graciano,pink,1,W,April
+7,19,Graciano,pink,1,W,April
+7,20,Graciano,red/orange,1,W,April
+7,21,Graciano,red/orange,1,W,April
+7,22,Ciliegiolo,red/orange,4,W,April
+7,23,Ciliegiolo,pink,3,W,April
+7,24,Ciliegiolo,red/orange,4,W,April
+7,26,Ciliegiolo,yellow,1,W,April
+7,32,Albarino,yellow,6,W,April
+7,33,Albarino,red/orange,8,W,April
+7,34,Albarino,yellow,8,W,April
+7,35,Albarino,red/orange,3,W,April
+7,36,Albarino,red/orange,0,W,April
+7,37,Greco di Tufo,yellow,1,W,April
+7,38,Greco di Tufo,yellow,1,W,April
+7,39,Greco di Tufo,red/orange,4,W,April
+7,40,Greco di Tufo,red/orange,3,W,April
+7,41,Greco di Tufo,yellow,1,W,April
+8,2,Sagrantino,yellow,3,W,April
+8,4,Sagrantino,pink,2,W,April
+8,5,Sagrantino,red/orange,4,W,April
+8,6,Sagrantino,red/orange,0,W,April
+8,7,Falanghina,red/orange,8,W,April
+8,8,Falanghina,pink,5,W,April
+8,9,Falanghina,pink,4,W,April
+8,10,Falanghina,red/orange,5,W,April
+8,11,Falanghina,red/orange,6,W,April
+8,12,Mencia,red/orange,1,W,April
+8,13,Mencia,yellow,1,W,April
+8,15,Mencia,yellow,1,W,April
+8,16,Mencia,yellow,4,W,April
+8,17,Albarino,red/orange,2,W,April
+8,18,Albarino,yellow,4,W,April
+8,19,Albarino,yellow,2,W,April
+8,21,Albarino,yellow,5,W,April
+8,22,Periquita,yellow,4,W,April
+8,23,Periquita,pink,6,W,April
+8,24,Periquita,red/orange,3,W,April
+8,25,Periquita,red/orange,2,W,April
+8,26,Periquita,red/orange,4,W,April
+8,27,Albarino,pink,6,W,April
+8,28,Albarino,yellow,1,W,April
+8,29,Albarino,pink,4,W,April
+8,30,Albarino,red/orange,5,W,April
+8,32,Tannat,red/orange,1,W,April
+8,33,Tannat,yellow,0,W,April
+8,34,Tannat,yellow,0,W,April
+8,35,Tannat,red/orange,1,W,April
+8,36,Tannat,yellow,0,W,April
+8,37,Periquita,red/orange,4,W,April
+8,38,Periquita,yellow,6,W,April
+8,39,Periquita,red/orange,4,W,April
+8,40,Periquita,red/orange,6,W,April
+8,41,Periquita,yellow,1,W,April
+9,2,Tannat,red/orange,1,W,April
+9,4,Tannat,yellow,1,W,April
+9,6,Tannat,red/orange,0,W,April
+9,7,Tinta Amarella,red/orange,4,W,April
+9,8,Tinta Amarella,pink,2,W,April
+9,11,Tinta Amarella,pink,7,W,April
+9,12,Petit Manseng,red/orange,7,W,April
+9,13,Petit Manseng,yellow,1,W,April
+9,14,Petit Manseng,yellow,2,W,April
+9,15,Petit Manseng,pink,5,W,April
+9,16,Petit Manseng,pink,1,W,April
+9,17,Teroldego,yellow,13,W,April
+9,18,Teroldego,yellow,11,W,April
+9,19,Teroldego,red/orange,9,W,April
+9,20,Teroldego,red/orange,3,W,April
+9,27,Tannat,red/orange,1,W,April
+9,28,Tannat,yellow,0,W,April
+9,29,Tannat,red/orange,0,W,April
+9,30,Tannat,red/orange,0,W,April
+9,31,Tannat,pink,1,W,April
+9,32,Periquita,yellow,4,W,April
+9,33,Periquita,yellow,3,W,April
+9,34,Periquita,yellow,1,W,April
+9,35,Periquita,red/orange,3,W,April
+9,37,Mencia,pink,2,W,April
+9,38,Mencia,pink,1,W,April
+9,39,Mencia,yellow,2,W,April
+9,40,Mencia,pink,1,W,April
+9,41,Mencia,pink,1,W,April
+10,2,Periquita,yellow,3.5,W,April
+10,3,Periquita,yellow,8,W,April
+10,4,Periquita,pink,5.5,W,April
+10,5,Periquita,pink,6.5,W,April
+10,6,Periquita,yellow,4.5,W,April
+10,7,Mencia,yellow,1,W,April
+10,8,Mencia,yellow,2,W,April
+10,10,Mencia,red/orange,1,W,April
+10,11,Mencia,yellow,2,W,April
+10,17,Greco di Tufo,pink,4,W,April
+10,18,Greco di Tufo,yellow,3,W,April
+10,19,Greco di Tufo,red/orange,3,W,April
+10,20,Greco di Tufo,yellow,4,W,April
+10,21,Greco di Tufo,pink,2,W,April
+10,22,Tinta Francisca,pink,2,W,April
+10,23,Tinta Francisca,yellow,2,W,April
+10,24,Tinta Francisca,yellow,1,W,April
+10,25,Tinta Francisca,pink,1,W,April
+10,26,Tinta Francisca,yellow,3,W,April
+10,27,Petit Manseng,yellow,3,W,April
+10,28,Petit Manseng,red/orange,4,W,April
+10,29,Petit Manseng,pink,0,W,April
+10,30,Petit Manseng,pink,2,W,April
+10,31,Petit Manseng,pink,5,W,April
+10,32,Teroldego,yellow,3,W,April
+10,33,Teroldego,yellow,5,W,April
+10,34,Teroldego,yellow,1,W,April
+10,35,Teroldego,pink,3,W,April
+10,36,Teroldego,pink,4,W,April
+10,37,Tannat,yellow,0,W,April
+10,38,Tannat,pink,3,W,April
+10,39,Tannat,red/orange,1,W,April
+10,40,Tannat,red/orange,3,W,April
+10,41,Tannat,yellow,1,W,April
+11,2,Tinta Francisca,red/orange,0,W,April
+11,3,Tinta Francisca,yellow,1,W,April
+11,4,Tinta Francisca,yellow,1,W,April
+11,5,Tinta Francisca,red/orange,1,W,April
+11,6,Tinta Francisca,red/orange,3,W,April
+11,7,Graciano,pink,1,W,April
+11,8,Graciano,red/orange,1,W,April
+11,9,Graciano,yellow,2,W,April
+11,10,Graciano,red/orange,1,W,April
+11,11,Graciano,pink,2,W,April
+11,12,Periquita,yellow,7,W,April
+11,13,Periquita,pink,8,W,April
+11,14,Periquita,pink,3,W,April
+11,15,Periquita,pink,3,W,April
+11,16,Periquita,red/orange,3,W,April
+11,17,Tinta Amarella,red/orange,1,W,April
+11,18,Tinta Amarella,pink,2,W,April
+11,19,Tinta Amarella,red/orange,5,W,April
+11,20,Tinta Amarella,yellow,4,W,April
+11,21,Tinta Amarella,red/orange,3,W,April
+11,22,Falanghina,pink,4,W,April
+11,23,Falanghina,yellow,4,W,April
+11,24,Falanghina,yellow,7,W,April
+11,25,Falanghina,pink,4,W,April
+11,26,Falanghina,red/orange,4,W,April
+11,27,Mencia,yellow,1,W,April
+11,28,Mencia,red/orange,1,W,April
+11,29,Mencia,pink,3,W,April
+11,30,Mencia,yellow,1,W,April
+11,31,Mencia,red/orange,1,W,April
+11,32,Ciliegiolo,red/orange,1,W,April
+11,33,Ciliegiolo,pink,1,W,April
+11,34,Ciliegiolo,red/orange,5,W,April
+11,35,Ciliegiolo,pink,3,W,April
+11,36,Ciliegiolo,yellow,2,W,April
+11,37,Teroldego,pink,7,W,April
+11,38,Teroldego,yellow,3,W,April
+11,39,Teroldego,yellow,7,W,April
+11,40,Teroldego,yellow,3,W,April
+11,41,Teroldego,red/orange,1,W,April
+12,2,Petit Manseng,pink,2,W,April
+12,3,Petit Manseng,red/orange,4,W,April
+12,4,Petit Manseng,red/orange,4,W,April
+12,5,Petit Manseng,pink,5,W,April
+12,6,Petit Manseng,yellow,4,W,April
+12,7,Tinta Francisca,red/orange,2,W,April
+12,8,Tinta Francisca,red/orange,3,W,April
+12,9,Tinta Francisca,yellow,4,W,April
+12,10,Tinta Francisca,yellow,2,W,April
+12,11,Tinta Francisca,yellow,5,W,April
+12,12,Tannat,yellow,0,W,April
+12,13,Tannat,pink,1,W,April
+12,14,Tannat,pink,2,W,April
+12,15,Tannat,yellow,1,W,April
+12,16,Tannat,red/orange,1,W,April
+12,17,Ciliegiolo,red/orange,1,W,April
+12,19,Ciliegiolo,yellow,3,W,April
+12,20,Ciliegiolo,yellow,3,W,April
+12,21,Ciliegiolo,yellow,6,W,April
+12,22,Graciano,yellow,0,W,April
+12,23,Graciano,yellow,1,W,April
+12,24,Graciano,yellow,1,W,April
+12,25,Graciano,pink,1,W,April
+12,26,Graciano,pink,1,W,April
+12,27,Periquita,yellow,2,W,April
+12,28,Periquita,red/orange,6,W,April
+12,29,Periquita,yellow,5,W,April
+12,30,Periquita,pink,7,W,April
+12,31,Periquita,red/orange,4,W,April
+12,32,Mencia,red/orange,2,W,April
+12,33,Mencia,red/orange,1,W,April
+12,35,Mencia,pink,1,W,April
+12,36,Mencia,red/orange,1,W,April
+12,37,Tinta Amarella,pink,2,W,April
+12,38,Tinta Amarella,red/orange,5,W,April
+12,39,Tinta Amarella,yellow,2,W,April
+12,40,Tinta Amarella,yellow,3,W,April
+12,41,Tinta Amarella,yellow,1,W,April
+13,7,Ciliegiolo,red/orange,1,W,April
+13,8,Ciliegiolo,red/orange,2,W,April
+13,9,Ciliegiolo,red/orange,1,W,April
+13,10,Ciliegiolo,red/orange,3,W,April
+13,11,Ciliegiolo,red/orange,3,W,April
+13,12,Graciano,pink,2,W,April
+13,13,Graciano,red/orange,0,W,April
+13,14,Graciano,yellow,1,W,April
+13,15,Graciano,yellow,1,W,April
+13,16,Graciano,red/orange,2,W,April
+13,17,Falanghina,yellow,10,W,April
+13,18,Falanghina,pink,2,W,April
+13,19,Falanghina,yellow,7,W,April
+13,20,Falanghina,pink,2,W,April
+13,21,Falanghina,red/orange,1,W,April
+13,22,Sagrantino,yellow,3,W,April
+13,23,Sagrantino,pink,5,W,April
+13,24,Sagrantino,red/orange,4,W,April
+13,26,Sagrantino,yellow,3,W,April
+13,27,Tinta Amarella,red/orange,2,W,April
+13,28,Tinta Amarella,yellow,2,W,April
+13,29,Tinta Amarella,yellow,2,W,April
+13,30,Tinta Amarella,yellow,2,W,April
+13,31,Tinta Amarella,pink,2,W,April
+13,32,Greco di Tufo,red/orange,1,W,April
+13,33,Greco di Tufo,red/orange,4,W,April
+13,34,Greco di Tufo,yellow,1,W,April
+13,35,Greco di Tufo,yellow,3,W,April
+13,36,Greco di Tufo,pink,1,W,April
+13,37,Tinta Francisca,pink,1,W,April
+13,38,Tinta Francisca,yellow,1,W,April
+13,39,Tinta Francisca,red/orange,1,W,April
+13,40,Tinta Francisca,red/orange,0,W,April
+13,41,Tinta Francisca,red/orange,2,W,April
+14,7,Tannat,pink,2,W,April
+14,8,Tannat,red/orange,5,W,April
+14,9,Tannat,yellow,4,W,April
+14,10,Tannat,pink,3,W,April
+14,11,Tannat,yellow,1,W,April
+14,12,Tinta Amarella,red/orange,3,W,April
+14,13,Tinta Amarella,yellow,3,W,April
+14,14,Tinta Amarella,red/orange,2,W,April
+14,15,Tinta Amarella,yellow,6,W,April
+14,16,Tinta Amarella,red/orange,4,W,April
+14,17,Periquita,yellow,1,W,April
+14,18,Periquita,yellow,4,W,April
+14,19,Periquita,pink,1,W,April
+14,20,Periquita,red/orange,3,W,April
+14,21,Periquita,red/orange,6,W,April
+14,22,Tannat,pink,1,W,April
+14,23,Tannat,red/orange,2,W,April
+14,24,Tannat,yellow,2,W,April
+14,25,Tannat,pink,0,W,April
+14,26,Tannat,red/orange,2,W,April
+14,27,Greco di Tufo,red/orange,0,W,April
+14,28,Greco di Tufo,red/orange,4,W,April
+14,29,Greco di Tufo,pink,1,W,April
+14,30,Greco di Tufo,yellow,2,W,April
+14,31,Greco di Tufo,yellow,2,W,April
+14,32,Sagrantino,red/orange,1,W,April
+14,33,Sagrantino,pink,3,W,April
+14,34,Sagrantino,pink,5,W,April
+14,35,Sagrantino,pink,2,W,April
+14,37,Petit Manseng,red/orange,1,W,April
+14,38,Petit Manseng,red/orange,2,W,April
+14,39,Petit Manseng,yellow,2,W,April
+14,40,Petit Manseng,yellow,3,W,April
+15,3,Tinta Amarella,red/orange,1,W,April
+15,4,Tinta Amarella,yellow,4,W,April
+15,5,Tinta Amarella,red/orange,4,W,April
+15,6,Tinta Amarella,red/orange,9,W,April
+15,7,Teroldego,yellow,9,W,April
+15,9,Teroldego,red/orange,2,W,April
+15,10,Teroldego,pink,6,W,April
+15,11,Teroldego,red/orange,8,W,April
+15,12,Falanghina,yellow,1,W,April
+15,13,Falanghina,yellow,8,W,April
+15,14,Falanghina,red/orange,5,W,April
+15,15,Falanghina,yellow,3,W,April
+15,16,Falanghina,red/orange,5,W,April
+15,17,Sagrantino,pink,5,W,April
+15,18,Sagrantino,red/orange,6,W,April
+15,19,Sagrantino,yellow,3,W,April
+15,20,Sagrantino,pink,4,W,April
+15,21,Sagrantino,red/orange,1,W,April
+15,22,Mencia,red/orange,1,W,April
+15,23,Mencia,pink,1,W,April
+15,24,Mencia,yellow,1,W,April
+15,25,Mencia,pink,1,W,April
+15,26,Mencia,yellow,1,W,April
+15,27,Ciliegiolo,yellow,3,W,April
+15,28,Ciliegiolo,yellow,5,W,April
+15,29,Ciliegiolo,pink,5,W,April
+15,30,Ciliegiolo,red/orange,2,W,April
+15,31,Ciliegiolo,yellow,3,W,April
+15,33,Tinta Francisca,yellow,1,W,April
+15,34,Tinta Francisca,pink,1,W,April
+15,35,Tinta Francisca,pink,1,W,April
+15,36,Tinta Francisca,red/orange,0,W,April
+16,3,Greco di Tufo,yellow,4,W,April
+16,4,Greco di Tufo,red/orange,3,W,April
+16,6,Greco di Tufo,red/orange,9,W,April
+16,12,Tinta Francisca,pink,1,W,April
+16,13,Tinta Francisca,pink,3,W,April
+16,14,Tinta Francisca,red/orange,1,W,April
+16,16,Tinta Francisca,yellow,1,W,April
+16,17,Tannat,pink,0,W,April
+16,18,Tannat,red/orange,1,W,April
+16,19,Tannat,pink,4,W,April
+16,20,Tannat,yellow,3,W,April
+16,21,Tannat,yellow,4,W,April
+16,22,Teroldego,yellow,8,W,April
+16,23,Teroldego,red/orange,3,W,April
+16,24,Teroldego,yellow,10,W,April
+16,25,Teroldego,red/orange,7,W,April
+16,26,Teroldego,red/orange,5,W,April
+16,27,Graciano,red/orange,1,W,April
+16,28,Graciano,yellow,0,W,April
+16,29,Graciano,yellow,1,W,April
+16,30,Graciano,yellow,0,W,April
+16,32,Petit Manseng,yellow,4,W,April
+16,33,Petit Manseng,yellow,2,W,April
+16,34,Petit Manseng,red/orange,1,W,April
+16,36,Petit Manseng,yellow,3,W,April
+16,37,Sagrantino,yellow,1,W,April
+2,22,Albarino,yellow,9,W,April
+2,23,Albarino,yellow,3,W,April
+2,24,Albarino,yellow,5,W,April
+2,25,Albarino,pink,7,W,April
+3,2,Teroldego,red/orange,4,W,April
+3,3,Teroldego,pink,12,W,April
+3,4,Teroldego,yellow,6,W,April
+3,5,Teroldego,pink,4,W,April
+3,6,Teroldego,yellow,10,W,April
+3,7,Sagrantino,pink,3,W,April
+3,8,Sagrantino,yellow,2,W,April
+3,9,Sagrantino,yellow,1,W,April
+3,10,Sagrantino,red/orange,2,W,April
+3,11,Sagrantino,yellow,2,W,April
+3,12,Greco di Tufo,red/orange,0,W,April
+3,13,Greco di Tufo,yellow,3,W,April
+3,14,Greco di Tufo,pink,3,W,April
+3,15,Greco di Tufo,yellow,4,W,April
+3,16,Greco di Tufo,yellow,1,W,April
+3,17,Tinta Francisca,red/orange,1,W,April
+3,18,Tinta Francisca,red/orange,3,W,April
+3,19,Tinta Francisca,yellow,0,W,April
+3,20,Tinta Francisca,yellow,4,W,April
+3,21,Tinta Francisca,pink,1,W,April
+3,22,Petit Manseng,yellow,5,W,April
+3,23,Petit Manseng,red/orange,0,W,April
+3,24,Petit Manseng,red/orange,2,W,April
+3,25,Petit Manseng,red/orange,1,W,April
+3,26,Petit Manseng,red/orange,3,W,April
+3,27,Falanghina,yellow,3,W,April
+3,28,Falanghina,red/orange,6,W,April
+3,29,Falanghina,red/orange,2,W,April
+3,30,Falanghina,red/orange,4,W,April
+3,31,Falanghina,pink,1,W,April
+4,2,Falanghina,yellow,7,W,April
+4,3,Falanghina,pink,5,W,April
+4,4,Falanghina,red/orange,2,W,April
+4,5,Falanghina,red/orange,3,W,April
+4,6,Falanghina,red/orange,0,W,April
+4,7,Greco di Tufo,pink,4,W,April
+4,8,Greco di Tufo,red/orange,0,W,April
+4,9,Greco di Tufo,red/orange,0,W,April
+4,10,Greco di Tufo,pink,4,W,April
+4,11,Greco di Tufo,yellow,2,W,April
+4,12,Albarino,pink,6,W,April
+4,13,Albarino,yellow,7,W,April
+4,14,Albarino,red/orange,0,W,April
+4,16,Albarino,red/orange,3,W,April
+4,23,Albarino,red/orange,5,W,April
+4,24,Albarino,yellow,1,W,April
+4,25,Albarino,red/orange,4,W,April
+4,26,Albarino,pink,3,W,April
+4,27,Tinta Francisca,pink,1,W,April
+4,28,Tinta Francisca,red/orange,3,W,April
+4,29,Tinta Francisca,red/orange,3,W,April
+4,30,Tinta Francisca,pink,5,W,April
+4,31,Tinta Francisca,yellow,1,W,April
+4,32,Graciano,red/orange,0,W,April
+4,33,Graciano,pink,1,W,April
+4,34,Graciano,yellow,0,W,April
+4,35,Graciano,yellow,0,W,April
+4,36,Graciano,red/orange,0,W,April
+4,37,Ciliegiolo,pink,4,W,April
+4,38,Ciliegiolo,yellow,2,W,April
+4,39,Ciliegiolo,red/orange,1,W,April
+4,40,Ciliegiolo,pink,1,W,April
+4,41,Ciliegiolo,pink,4,W,April
+5,2,Ciliegiolo,yellow,2,W,April
+5,3,Ciliegiolo,red/orange,2,W,April
+5,4,Ciliegiolo,yellow,7,W,April
+5,5,Ciliegiolo,pink,5,W,April
+5,6,Ciliegiolo,yellow,4,W,April
+5,7,Periquita,red/orange,5,W,April
+5,8,Periquita,red/orange,1,W,April
+5,9,Periquita,pink,8,W,April
+5,10,Periquita,pink,5,W,April
+5,11,Periquita,yellow,5,W,April
+5,12,Ciliegiolo,yellow,3,W,April
+5,13,Ciliegiolo,red/orange,1,W,April
+5,14,Ciliegiolo,pink,5,W,April
+5,15,Ciliegiolo,pink,5,W,April
+5,16,Ciliegiolo,yellow,3,W,April
+5,17,Petit Manseng,pink,1,W,April
+5,18,Petit Manseng,pink,2,W,April
+5,19,Petit Manseng,pink,5,W,April
+5,20,Petit Manseng,yellow,3,W,April
+5,22,Greco di Tufo,pink,3,W,April
+5,23,Greco di Tufo,red/orange,1,W,April
+5,24,Greco di Tufo,pink,4,W,April
+5,25,Greco di Tufo,red/orange,0,W,April
+5,26,Greco di Tufo,pink,3,W,April
+5,27,Teroldego,red/orange,12,W,April
+5,28,Teroldego,pink,7,W,April
+5,29,Teroldego,red/orange,6,W,April
+5,30,Teroldego,red/orange,9,W,April
+5,31,Teroldego,pink,10,W,April
+5,32,Tinta Amarella,yellow,3,W,April
+5,33,Tinta Amarella,yellow,1,W,April
+5,34,Tinta Amarella,red/orange,1,W,April
+5,35,Tinta Amarella,pink,8,W,April
+5,36,Tinta Amarella,pink,2,W,April
+5,37,Falanghina,yellow,3,W,April
+5,38,Falanghina,red/orange,3,W,April
+5,39,Falanghina,red/orange,5,W,April
+5,40,Falanghina,yellow,5,W,April
+5,41,Falanghina,pink,2,W,April
+6,2,Albarino,yellow,7,W,April
+6,3,Albarino,pink,6,W,April
+6,4,Albarino,red/orange,2,W,April
+6,5,Albarino,pink,10,W,April
+6,6,Albarino,pink,7,W,April
+6,7,Petit Manseng,yellow,1,W,April
+6,8,Petit Manseng,red/orange,1,W,April
+6,9,Petit Manseng,yellow,5,W,April
+6,11,Petit Manseng,red/orange,4,W,April
+6,12,Teroldego,red/orange,2,W,April
+6,13,Teroldego,pink,9,W,April
+6,14,Teroldego,yellow,3,W,April
+6,15,Teroldego,pink,3,W,April
+6,16,Teroldego,red/orange,3,W,April
+6,17,Mencia,yellow,1,W,April
+6,18,Mencia,red/orange,3,W,April
+6,19,Mencia,red/orange,1,W,April
+6,20,Mencia,red/orange,1,W,April
+6,21,Mencia,yellow,1,W,April
+6,22,Tinta Amarella,pink,4,W,April
+6,23,Tinta Amarella,pink,6,W,April
+6,24,Tinta Amarella,yellow,4,W,April
+6,25,Tinta Amarella,red/orange,8,W,April
+6,26,Tinta Amarella,pink,3,W,April
+6,27,Sagrantino,yellow,4,W,April
+6,28,Sagrantino,pink,4,W,April
+6,29,Sagrantino,yellow,4,W,April
+6,30,Sagrantino,pink,3,W,April
+6,31,Sagrantino,yellow,2,W,April
+6,32,Falanghina,yellow,6,W,April
+6,33,Falanghina,yellow,4,W,April
+6,34,Falanghina,yellow,3,W,April
+6,35,Falanghina,yellow,6,W,April
+6,36,Falanghina,pink,5,W,April
+6,37,Graciano,yellow,1,W,April
+6,38,Graciano,red/orange,1,W,April
+6,39,Graciano,pink,1,W,April
+6,40,Graciano,red/orange,1,W,April
+6,41,Graciano,pink,2,W,April
+7,3,Mencia,pink,1,W,April
+7,5,Mencia,red/orange,1,W,April
+7,6,Mencia,pink,2,W,April
+7,7,Albarino,pink,2,W,April
+7,8,Albarino,red/orange,5,W,April
+7,10,Albarino,red/orange,5,W,April
+7,12,Sagrantino,red/orange,3,W,April
+7,13,Sagrantino,yellow,4,W,April
+7,14,Sagrantino,red/orange,2,W,April
+7,15,Sagrantino,red/orange,3,W,April
+7,16,Sagrantino,red/orange,4,W,April
+7,17,Graciano,red/orange,0,W,April
+7,18,Graciano,pink,0,W,April
+7,19,Graciano,pink,1,W,April
+7,20,Graciano,red/orange,1,W,April
+7,21,Graciano,red/orange,1,W,April
+7,22,Ciliegiolo,red/orange,3,W,April
+7,23,Ciliegiolo,pink,5,W,April
+7,24,Ciliegiolo,red/orange,1,W,April
+7,26,Ciliegiolo,yellow,3,W,April
+7,32,Albarino,yellow,9,W,April
+7,33,Albarino,red/orange,7,W,April
+7,34,Albarino,yellow,5,W,April
+7,35,Albarino,red/orange,7,W,April
+7,36,Albarino,red/orange,0,W,April
+7,37,Greco di Tufo,yellow,4,W,April
+7,38,Greco di Tufo,yellow,1,W,April
+7,39,Greco di Tufo,red/orange,1,W,April
+7,40,Greco di Tufo,red/orange,3,W,April
+7,41,Greco di Tufo,yellow,3,W,April
+8,2,Sagrantino,yellow,2,W,April
+8,4,Sagrantino,pink,3,W,April
+8,5,Sagrantino,red/orange,1,W,April
+8,6,Sagrantino,red/orange,0,W,April
+8,7,Falanghina,red/orange,3,W,April
+8,8,Falanghina,pink,1,W,April
+8,9,Falanghina,pink,3,W,April
+8,10,Falanghina,red/orange,3,W,April
+8,11,Falanghina,red/orange,7,W,April
+8,12,Mencia,red/orange,1,W,April
+8,13,Mencia,yellow,1,W,April
+8,15,Mencia,yellow,1,W,April
+8,16,Mencia,yellow,4,W,April
+8,17,Albarino,red/orange,3,W,April
+8,18,Albarino,yellow,3,W,April
+8,19,Albarino,yellow,2,W,April
+8,21,Albarino,yellow,6,W,April
+8,22,Periquita,yellow,5,W,April
+8,23,Periquita,pink,2,W,April
+8,24,Periquita,red/orange,1,W,April
+8,25,Periquita,red/orange,4,W,April
+8,26,Periquita,red/orange,7,W,April
+8,27,Albarino,pink,5,W,April
+8,28,Albarino,yellow,4,W,April
+8,29,Albarino,pink,3,W,April
+8,30,Albarino,red/orange,8,W,April
+8,32,Tannat,red/orange,1,W,April
+8,33,Tannat,yellow,0,W,April
+8,34,Tannat,yellow,0,W,April
+8,35,Tannat,red/orange,1,W,April
+8,36,Tannat,yellow,0,W,April
+8,37,Periquita,red/orange,4,W,April
+8,38,Periquita,yellow,2,W,April
+8,39,Periquita,red/orange,7,W,April
+8,40,Periquita,red/orange,6,W,April
+8,41,Periquita,yellow,2,W,April
+9,2,Tannat,red/orange,1,W,April
+9,4,Tannat,yellow,1,W,April
+9,6,Tannat,red/orange,0,W,April
+9,7,Tinta Amarella,red/orange,1,W,April
+9,8,Tinta Amarella,pink,6,W,April
+9,11,Tinta Amarella,pink,1,W,April
+9,12,Petit Manseng,red/orange,7,W,April
+9,13,Petit Manseng,yellow,1,W,April
+9,14,Petit Manseng,yellow,3,W,April
+9,15,Petit Manseng,pink,3,W,April
+9,16,Petit Manseng,pink,2,W,April
+9,17,Teroldego,yellow,6,W,April
+9,18,Teroldego,yellow,5,W,April
+9,19,Teroldego,red/orange,15,W,April
+9,20,Teroldego,red/orange,5,W,April
+9,27,Tannat,red/orange,1,W,April
+9,28,Tannat,yellow,0,W,April
+9,29,Tannat,red/orange,0,W,April
+9,30,Tannat,red/orange,0,W,April
+9,31,Tannat,pink,1,W,April
+9,32,Periquita,yellow,3,W,April
+9,33,Periquita,yellow,3,W,April
+9,34,Periquita,yellow,1,W,April
+9,35,Periquita,red/orange,3,W,April
+9,37,Mencia,pink,1,W,April
+9,38,Mencia,pink,1,W,April
+9,39,Mencia,yellow,1,W,April
+9,40,Mencia,pink,1,W,April
+9,41,Mencia,pink,1,W,April
+10,2,Periquita,yellow,7,W,April
+10,3,Periquita,yellow,5.5,W,April
+10,4,Periquita,pink,6,W,April
+10,5,Periquita,pink,1,W,April
+10,6,Periquita,yellow,8,W,April
+10,7,Mencia,yellow,1,W,April
+10,8,Mencia,yellow,3,W,April
+10,10,Mencia,red/orange,1,W,April
+10,11,Mencia,yellow,3,W,April
+10,17,Greco di Tufo,pink,2.5,W,April
+10,18,Greco di Tufo,yellow,4.5,W,April
+10,19,Greco di Tufo,red/orange,2,W,April
+10,20,Greco di Tufo,yellow,1.5,W,April
+10,21,Greco di Tufo,pink,3.5,W,April
+10,22,Tinta Francisca,pink,1,W,April
+10,23,Tinta Francisca,yellow,1,W,April
+10,24,Tinta Francisca,yellow,1,W,April
+10,25,Tinta Francisca,pink,1,W,April
+10,26,Tinta Francisca,yellow,1,W,April
+10,27,Petit Manseng,yellow,2,W,April
+10,28,Petit Manseng,red/orange,2,W,April
+10,29,Petit Manseng,pink,0,W,April
+10,30,Petit Manseng,pink,4,W,April
+10,31,Petit Manseng,pink,3,W,April
+10,32,Teroldego,yellow,3,W,April
+10,33,Teroldego,yellow,2,W,April
+10,34,Teroldego,yellow,1,W,April
+10,35,Teroldego,pink,3,W,April
+10,36,Teroldego,pink,7,W,April
+10,37,Tannat,yellow,0,W,April
+10,38,Tannat,pink,1,W,April
+10,39,Tannat,red/orange,0,W,April
+10,40,Tannat,red/orange,3,W,April
+10,41,Tannat,yellow,1,W,April
+11,2,Tinta Francisca,red/orange,0,W,April
+11,3,Tinta Francisca,yellow,1,W,April
+11,4,Tinta Francisca,yellow,2,W,April
+11,5,Tinta Francisca,red/orange,0,W,April
+11,6,Tinta Francisca,red/orange,1,W,April
+11,7,Graciano,pink,2,W,April
+11,8,Graciano,red/orange,1,W,April
+11,9,Graciano,yellow,1,W,April
+11,10,Graciano,red/orange,1,W,April
+11,11,Graciano,pink,2,W,April
+11,12,Periquita,yellow,4,W,April
+11,13,Periquita,pink,1,W,April
+11,14,Periquita,pink,3,W,April
+11,15,Periquita,pink,3,W,April
+11,16,Periquita,red/orange,3,W,April
+11,17,Tinta Amarella,red/orange,0,W,April
+11,18,Tinta Amarella,pink,3,W,April
+11,19,Tinta Amarella,red/orange,3,W,April
+11,20,Tinta Amarella,yellow,5,W,April
+11,21,Tinta Amarella,red/orange,4,W,April
+11,22,Falanghina,pink,6,W,April
+11,23,Falanghina,yellow,2,W,April
+11,24,Falanghina,yellow,5,W,April
+11,25,Falanghina,pink,3,W,April
+11,26,Falanghina,red/orange,2,W,April
+11,27,Mencia,yellow,1,W,April
+11,28,Mencia,red/orange,2,W,April
+11,29,Mencia,pink,3,W,April
+11,30,Mencia,yellow,1,W,April
+11,31,Mencia,red/orange,1,W,April
+11,32,Ciliegiolo,red/orange,1,W,April
+11,33,Ciliegiolo,pink,1,W,April
+11,34,Ciliegiolo,red/orange,1,W,April
+11,35,Ciliegiolo,pink,5,W,April
+11,36,Ciliegiolo,yellow,2,W,April
+11,37,Teroldego,pink,3,W,April
+11,38,Teroldego,yellow,4,W,April
+11,39,Teroldego,yellow,4,W,April
+11,40,Teroldego,yellow,3,W,April
+11,41,Teroldego,red/orange,1,W,April
+12,2,Petit Manseng,pink,2,W,April
+12,3,Petit Manseng,red/orange,1,W,April
+12,4,Petit Manseng,red/orange,3,W,April
+12,5,Petit Manseng,pink,4,W,April
+12,6,Petit Manseng,yellow,3,W,April
+12,7,Tinta Francisca,red/orange,3,W,April
+12,8,Tinta Francisca,red/orange,3,W,April
+12,9,Tinta Francisca,yellow,2,W,April
+12,10,Tinta Francisca,yellow,1,W,April
+12,11,Tinta Francisca,yellow,3,W,April
+12,12,Tannat,yellow,0,W,April
+12,13,Tannat,pink,1,W,April
+12,14,Tannat,pink,3,W,April
+12,15,Tannat,yellow,1,W,April
+12,16,Tannat,red/orange,1,W,April
+12,17,Ciliegiolo,red/orange,4,W,April
+12,19,Ciliegiolo,yellow,3,W,April
+12,20,Ciliegiolo,yellow,3,W,April
+12,21,Ciliegiolo,yellow,3,W,April
+12,22,Graciano,yellow,0,W,April
+12,23,Graciano,yellow,0,W,April
+12,24,Graciano,yellow,0,W,April
+12,25,Graciano,pink,1,W,April
+12,26,Graciano,pink,1,W,April
+12,27,Periquita,yellow,1,W,April
+12,28,Periquita,red/orange,6,W,April
+12,29,Periquita,yellow,3,W,April
+12,30,Periquita,pink,7,W,April
+12,31,Periquita,red/orange,1,W,April
+12,32,Mencia,red/orange,1,W,April
+12,33,Mencia,red/orange,1,W,April
+12,35,Mencia,pink,2,W,April
+12,36,Mencia,red/orange,2,W,April
+12,37,Tinta Amarella,pink,1,W,April
+12,38,Tinta Amarella,red/orange,2,W,April
+12,39,Tinta Amarella,yellow,4,W,April
+12,40,Tinta Amarella,yellow,4,W,April
+12,41,Tinta Amarella,yellow,0,W,April
+13,7,Ciliegiolo,red/orange,6,W,April
+13,8,Ciliegiolo,red/orange,1,W,April
+13,9,Ciliegiolo,red/orange,1,W,April
+13,10,Ciliegiolo,red/orange,1,W,April
+13,11,Ciliegiolo,red/orange,3,W,April
+13,12,Graciano,pink,1,W,April
+13,13,Graciano,red/orange,0,W,April
+13,14,Graciano,yellow,1,W,April
+13,15,Graciano,yellow,0,W,April
+13,16,Graciano,red/orange,2,W,April
+13,17,Falanghina,yellow,4,W,April
+13,18,Falanghina,pink,4,W,April
+13,19,Falanghina,yellow,5,W,April
+13,20,Falanghina,pink,1,W,April
+13,21,Falanghina,red/orange,1,W,April
+13,22,Sagrantino,yellow,2,W,April
+13,23,Sagrantino,pink,3,W,April
+13,24,Sagrantino,red/orange,4,W,April
+13,26,Sagrantino,yellow,2,W,April
+13,27,Tinta Amarella,red/orange,2,W,April
+13,28,Tinta Amarella,yellow,3,W,April
+13,29,Tinta Amarella,yellow,1,W,April
+13,30,Tinta Amarella,yellow,1,W,April
+13,31,Tinta Amarella,pink,2,W,April
+13,32,Greco di Tufo,red/orange,0,W,April
+13,33,Greco di Tufo,red/orange,3,W,April
+13,34,Greco di Tufo,yellow,1,W,April
+13,35,Greco di Tufo,yellow,2,W,April
+13,36,Greco di Tufo,pink,1,W,April
+13,37,Tinta Francisca,pink,1,W,April
+13,38,Tinta Francisca,yellow,2,W,April
+13,39,Tinta Francisca,red/orange,2,W,April
+13,40,Tinta Francisca,red/orange,0,W,April
+13,41,Tinta Francisca,red/orange,2,W,April
+14,7,Tannat,pink,4,W,April
+14,8,Tannat,red/orange,7,W,April
+14,9,Tannat,yellow,2,W,April
+14,10,Tannat,pink,4,W,April
+14,11,Tannat,yellow,1,W,April
+14,12,Tinta Amarella,red/orange,4,W,April
+14,13,Tinta Amarella,yellow,3,W,April
+14,14,Tinta Amarella,red/orange,5,W,April
+14,15,Tinta Amarella,yellow,5,W,April
+14,16,Tinta Amarella,red/orange,4,W,April
+14,17,Periquita,yellow,2,W,April
+14,18,Periquita,yellow,3,W,April
+14,19,Periquita,pink,2,W,April
+14,20,Periquita,red/orange,2,W,April
+14,21,Periquita,red/orange,3,W,April
+14,22,Tannat,pink,1,W,April
+14,23,Tannat,red/orange,1,W,April
+14,24,Tannat,yellow,2,W,April
+14,25,Tannat,pink,0,W,April
+14,26,Tannat,red/orange,1,W,April
+14,27,Greco di Tufo,red/orange,0,W,April
+14,28,Greco di Tufo,red/orange,3,W,April
+14,29,Greco di Tufo,pink,1,W,April
+14,30,Greco di Tufo,yellow,1,W,April
+14,31,Greco di Tufo,yellow,1,W,April
+14,32,Sagrantino,red/orange,1,W,April
+14,33,Sagrantino,pink,1,W,April
+14,34,Sagrantino,pink,2,W,April
+14,35,Sagrantino,pink,3,W,April
+14,37,Petit Manseng,red/orange,1,W,April
+14,38,Petit Manseng,red/orange,3,W,April
+14,39,Petit Manseng,yellow,2,W,April
+14,40,Petit Manseng,yellow,2,W,April
+15,3,Tinta Amarella,red/orange,0,W,April
+15,4,Tinta Amarella,yellow,2,W,April
+15,5,Tinta Amarella,red/orange,4,W,April
+15,6,Tinta Amarella,red/orange,4,W,April
+15,7,Teroldego,yellow,8,W,April
+15,9,Teroldego,red/orange,7,W,April
+15,10,Teroldego,pink,10,W,April
+15,11,Teroldego,red/orange,2,W,April
+15,12,Falanghina,yellow,2,W,April
+15,13,Falanghina,yellow,2,W,April
+15,14,Falanghina,red/orange,4,W,April
+15,15,Falanghina,yellow,1,W,April
+15,16,Falanghina,red/orange,4,W,April
+15,17,Sagrantino,pink,4,W,April
+15,18,Sagrantino,red/orange,4,W,April
+15,19,Sagrantino,yellow,3,W,April
+15,20,Sagrantino,pink,2,W,April
+15,21,Sagrantino,red/orange,4,W,April
+15,22,Mencia,red/orange,1,W,April
+15,23,Mencia,pink,1,W,April
+15,24,Mencia,yellow,0,W,April
+15,25,Mencia,pink,1,W,April
+15,26,Mencia,yellow,2,W,April
+15,27,Ciliegiolo,yellow,3,W,April
+15,28,Ciliegiolo,yellow,2,W,April
+15,29,Ciliegiolo,pink,6,W,April
+15,30,Ciliegiolo,red/orange,1,W,April
+15,31,Ciliegiolo,yellow,4,W,April
+15,33,Tinta Francisca,yellow,1,W,April
+15,34,Tinta Francisca,pink,1,W,April
+15,35,Tinta Francisca,pink,1,W,April
+15,36,Tinta Francisca,red/orange,0,W,April
+16,3,Greco di Tufo,yellow,4,W,April
+16,4,Greco di Tufo,red/orange,2,W,April
+16,6,Greco di Tufo,red/orange,2,W,April
+16,12,Tinta Francisca,pink,1,W,April
+16,13,Tinta Francisca,pink,1,W,April
+16,14,Tinta Francisca,red/orange,1,W,April
+16,16,Tinta Francisca,yellow,1,W,April
+16,17,Tannat,pink,0,W,April
+16,18,Tannat,red/orange,1,W,April
+16,19,Tannat,pink,3,W,April
+16,20,Tannat,yellow,2,W,April
+16,21,Tannat,yellow,2,W,April
+16,22,Teroldego,yellow,7,W,April
+16,23,Teroldego,red/orange,15,W,April
+16,24,Teroldego,yellow,4,W,April
+16,25,Teroldego,red/orange,1,W,April
+16,26,Teroldego,red/orange,5,W,April
+16,27,Graciano,red/orange,2,W,April
+16,28,Graciano,yellow,0,W,April
+16,29,Graciano,yellow,0,W,April
+16,30,Graciano,yellow,0,W,April
+16,32,Petit Manseng,yellow,4,W,April
+16,33,Petit Manseng,yellow,3,W,April
+16,34,Petit Manseng,red/orange,1,W,April
+16,36,Petit Manseng,yellow,1,W,April
+16,37,Sagrantino,yellow,1,W,April
+2,22,Albarino,yellow,9,WC,April
+2,23,Albarino,yellow,8,WC,April
+2,24,Albarino,yellow,10,WC,April
+2,25,Albarino,pink,3,WC,April
+3,17,Tinta Francisca,red/orange,1,WC,April
+3,18,Tinta Francisca,red/orange,1,WC,April
+3,19,Tinta Francisca,yellow,1,WC,April
+3,20,Tinta Francisca,yellow,1,WC,April
+3,21,Tinta Francisca,pink,2,WC,April
+4,8,Greco di Tufo,red/orange,0,WC,April
+4,9,Greco di Tufo,red/orange,0,WC,April
+4,12,Albarino,pink,3,WC,April
+4,13,Albarino,yellow,4,WC,April
+4,14,Albarino,red/orange,5,WC,April
+4,16,Albarino,red/orange,2,WC,April
+4,23,Albarino,red/orange,1,WC,April
+4,24,Albarino,yellow,4,WC,April
+4,25,Albarino,red/orange,6,WC,April
+4,26,Albarino,pink,7,WC,April
+4,27,Tinta Francisca,pink,2,WC,April
+4,28,Tinta Francisca,red/orange,2,WC,April
+4,29,Tinta Francisca,red/orange,4,WC,April
+4,30,Tinta Francisca,pink,5,WC,April
+4,31,Tinta Francisca,yellow,6,WC,April
+6,2,Albarino,yellow,15,WC,April
+6,3,Albarino,pink,7,WC,April
+6,4,Albarino,red/orange,11,WC,April
+6,5,Albarino,pink,5,WC,April
+6,6,Albarino,pink,5,WC,April
+7,7,Albarino,pink,5,WC,April
+7,8,Albarino,red/orange,5,WC,April
+7,10,Albarino,red/orange,7,WC,April
+7,32,Albarino,yellow,8,WC,April
+7,33,Albarino,red/orange,7,WC,April
+7,34,Albarino,yellow,7,WC,April
+7,35,Albarino,red/orange,2,WC,April
+7,36,Albarino,red/orange,13,WC,April
+8,17,Albarino,red/orange,7,WC,April
+8,18,Albarino,yellow,7,WC,April
+8,19,Albarino,yellow,8,WC,April
+8,21,Albarino,yellow,8,WC,April
+8,27,Albarino,pink,2,WC,April
+8,28,Albarino,yellow,8,WC,April
+8,29,Albarino,pink,11,WC,April
+8,30,Albarino,red/orange,6,WC,April
+8,32,Tannat,red/orange,3,WC,April
+8,33,Tannat,yellow,2,WC,April
+8,34,Tannat,yellow,1,WC,April
+8,35,Tannat,red/orange,3,WC,April
+8,36,Tannat,yellow,1,WC,April
+9,2,Tannat,red/orange,1,WC,April
+9,4,Tannat,yellow,1,WC,April
+9,6,Tannat,red/orange,1,WC,April
+9,27,Tannat,red/orange,1,WC,April
+9,28,Tannat,yellow,1,WC,April
+9,29,Tannat,red/orange,1,WC,April
+9,30,Tannat,red/orange,1,WC,April
+9,31,Tannat,pink,1,WC,April
+10,22,Tinta Francisca,pink,1,WC,April
+10,23,Tinta Francisca,yellow,1,WC,April
+10,24,Tinta Francisca,yellow,1,WC,April
+10,25,Tinta Francisca,pink,1,WC,April
+10,26,Tinta Francisca,yellow,1,WC,April
+10,37,Tannat,yellow,1,WC,April
+10,38,Tannat,pink,1,WC,April
+10,39,Tannat,red/orange,1,WC,April
+10,40,Tannat,red/orange,1,WC,April
+10,41,Tannat,yellow,1,WC,April
+11,2,Tinta Francisca,red/orange,1,WC,April
+11,3,Tinta Francisca,yellow,3,WC,April
+11,4,Tinta Francisca,yellow,1,WC,April
+11,5,Tinta Francisca,red/orange,1,WC,April
+11,6,Tinta Francisca,red/orange,1,WC,April
+12,7,Tinta Francisca,red/orange,1,WC,April
+12,8,Tinta Francisca,red/orange,2,WC,April
+12,9,Tinta Francisca,yellow,1,WC,April
+12,10,Tinta Francisca,yellow,3,WC,April
+12,11,Tinta Francisca,yellow,12,WC,April
+12,12,Tannat,yellow,2,WC,April
+12,13,Tannat,pink,2,WC,April
+12,14,Tannat,pink,2,WC,April
+12,15,Tannat,yellow,1,WC,April
+12,16,Tannat,red/orange,3,WC,April
+13,38,Tinta Francisca,yellow,1,WC,April
+13,39,Tinta Francisca,red/orange,1,WC,April
+13,40,Tinta Francisca,red/orange,1,WC,April
+13,41,Tinta Francisca,red/orange,1,WC,April
+14,7,Tannat,pink,1,WC,April
+14,8,Tannat,red/orange,4,WC,April
+14,9,Tannat,yellow,3,WC,April
+14,10,Tannat,pink,1,WC,April
+14,11,Tannat,yellow,1,WC,April
+14,22,Tannat,pink,1,WC,April
+14,23,Tannat,red/orange,3,WC,April
+14,24,Tannat,yellow,1,WC,April
+14,25,Tannat,pink,0,WC,April
+14,26,Tannat,red/orange,2,WC,April
+15,33,Tinta Francisca,yellow,1,WC,April
+15,34,Tinta Francisca,pink,1,WC,April
+15,35,Tinta Francisca,pink,1,WC,April
+15,36,Tinta Francisca,red/orange,1,WC,April
+16,12,Tinta Francisca,pink,1,WC,April
+16,13,Tinta Francisca,pink,3,WC,April
+16,14,Tinta Francisca,red/orange,2,WC,April
+16,16,Tinta Francisca,yellow,1,WC,April
+16,17,Tannat,pink,0,WC,April
+16,18,Tannat,red/orange,2,WC,April
+16,19,Tannat,pink,3,WC,April
+16,20,Tannat,yellow,5,WC,April
+16,21,Tannat,yellow,4,WC,April
+2,22,Albarino,yellow,10,WC,April
+2,23,Albarino,yellow,4,WC,April
+2,24,Albarino,yellow,3,WC,April
+2,25,Albarino,pink,2,WC,April
+3,17,Tinta Francisca,red/orange,1,WC,April
+3,18,Tinta Francisca,red/orange,1,WC,April
+3,19,Tinta Francisca,yellow,1,WC,April
+3,20,Tinta Francisca,yellow,1,WC,April
+3,21,Tinta Francisca,pink,2,WC,April
+4,8,Greco di Tufo,red/orange,0,WC,April
+4,9,Greco di Tufo,red/orange,0,WC,April
+4,12,Albarino,pink,6,WC,April
+4,13,Albarino,yellow,5,WC,April
+4,14,Albarino,red/orange,5,WC,April
+4,16,Albarino,red/orange,6,WC,April
+4,23,Albarino,red/orange,5,WC,April
+4,24,Albarino,yellow,4,WC,April
+4,25,Albarino,red/orange,7,WC,April
+4,26,Albarino,pink,10,WC,April
+4,27,Tinta Francisca,pink,2,WC,April
+4,28,Tinta Francisca,red/orange,1,WC,April
+4,29,Tinta Francisca,red/orange,4,WC,April
+4,30,Tinta Francisca,pink,6,WC,April
+4,31,Tinta Francisca,yellow,5,WC,April
+6,2,Albarino,yellow,5,WC,April
+6,3,Albarino,pink,6,WC,April
+6,4,Albarino,red/orange,8,WC,April
+6,5,Albarino,pink,3,WC,April
+6,6,Albarino,pink,7,WC,April
+7,7,Albarino,pink,8,WC,April
+7,8,Albarino,red/orange,4,WC,April
+7,10,Albarino,red/orange,10,WC,April
+7,32,Albarino,yellow,4,WC,April
+7,33,Albarino,red/orange,10,WC,April
+7,34,Albarino,yellow,12,WC,April
+7,35,Albarino,red/orange,2,WC,April
+7,36,Albarino,red/orange,5,WC,April
+8,17,Albarino,red/orange,2,WC,April
+8,18,Albarino,yellow,3,WC,April
+8,19,Albarino,yellow,4,WC,April
+8,21,Albarino,yellow,5,WC,April
+8,27,Albarino,pink,6,WC,April
+8,28,Albarino,yellow,5,WC,April
+8,29,Albarino,pink,12,WC,April
+8,30,Albarino,red/orange,9,WC,April
+8,32,Tannat,red/orange,1,WC,April
+8,33,Tannat,yellow,1,WC,April
+8,34,Tannat,yellow,1,WC,April
+8,35,Tannat,red/orange,2,WC,April
+8,36,Tannat,yellow,1,WC,April
+9,2,Tannat,red/orange,1,WC,April
+9,4,Tannat,yellow,1,WC,April
+9,6,Tannat,red/orange,1,WC,April
+9,27,Tannat,red/orange,1,WC,April
+9,28,Tannat,yellow,1,WC,April
+9,29,Tannat,red/orange,1,WC,April
+9,30,Tannat,red/orange,1,WC,April
+9,31,Tannat,pink,1,WC,April
+10,22,Tinta Francisca,pink,1,WC,April
+10,23,Tinta Francisca,yellow,1,WC,April
+10,24,Tinta Francisca,yellow,1,WC,April
+10,25,Tinta Francisca,pink,1,WC,April
+10,26,Tinta Francisca,yellow,1,WC,April
+10,37,Tannat,yellow,1,WC,April
+10,38,Tannat,pink,1,WC,April
+10,39,Tannat,red/orange,1,WC,April
+10,40,Tannat,red/orange,1,WC,April
+10,41,Tannat,yellow,1,WC,April
+11,2,Tinta Francisca,red/orange,1,WC,April
+11,3,Tinta Francisca,yellow,1,WC,April
+11,4,Tinta Francisca,yellow,1,WC,April
+11,5,Tinta Francisca,red/orange,1,WC,April
+11,6,Tinta Francisca,red/orange,1,WC,April
+12,7,Tinta Francisca,red/orange,1,WC,April
+12,8,Tinta Francisca,red/orange,1,WC,April
+12,9,Tinta Francisca,yellow,1,WC,April
+12,10,Tinta Francisca,yellow,3,WC,April
+12,11,Tinta Francisca,yellow,5,WC,April
+12,12,Tannat,yellow,1,WC,April
+12,13,Tannat,pink,1,WC,April
+12,14,Tannat,pink,2,WC,April
+12,15,Tannat,yellow,1,WC,April
+12,16,Tannat,red/orange,1,WC,April
+13,38,Tinta Francisca,yellow,1,WC,April
+13,39,Tinta Francisca,red/orange,1,WC,April
+13,40,Tinta Francisca,red/orange,1,WC,April
+13,41,Tinta Francisca,red/orange,1,WC,April
+14,7,Tannat,pink,3,WC,April
+14,8,Tannat,red/orange,2,WC,April
+14,9,Tannat,yellow,3,WC,April
+14,10,Tannat,pink,3,WC,April
+14,11,Tannat,yellow,1,WC,April
+14,22,Tannat,pink,1,WC,April
+14,23,Tannat,red/orange,2,WC,April
+14,24,Tannat,yellow,1,WC,April
+14,25,Tannat,pink,0,WC,April
+14,26,Tannat,red/orange,3,WC,April
+15,33,Tinta Francisca,yellow,1,WC,April
+15,34,Tinta Francisca,pink,1,WC,April
+15,35,Tinta Francisca,pink,1,WC,April
+15,36,Tinta Francisca,red/orange,1,WC,April
+16,12,Tinta Francisca,pink,1,WC,April
+16,13,Tinta Francisca,pink,1,WC,April
+16,14,Tinta Francisca,red/orange,1,WC,April
+16,16,Tinta Francisca,yellow,1,WC,April
+16,17,Tannat,pink,0,WC,April
+16,18,Tannat,red/orange,1,WC,April
+16,19,Tannat,pink,1,WC,April
+16,20,Tannat,yellow,2,WC,April
+16,21,Tannat,yellow,1,WC,April
+2,22,Albarino,yellow,7,WC,April
+2,23,Albarino,yellow,6,WC,April
+2,24,Albarino,yellow,4,WC,April
+2,25,Albarino,pink,8,WC,April
+3,17,Tinta Francisca,red/orange,1,WC,April
+3,18,Tinta Francisca,red/orange,1,WC,April
+3,19,Tinta Francisca,yellow,1,WC,April
+3,20,Tinta Francisca,yellow,1,WC,April
+3,21,Tinta Francisca,pink,1,WC,April
+4,8,Greco di Tufo,red/orange,0,WC,April
+4,9,Greco di Tufo,red/orange,0,WC,April
+4,12,Albarino,pink,5,WC,April
+4,13,Albarino,yellow,6,WC,April
+4,14,Albarino,red/orange,6,WC,April
+4,16,Albarino,red/orange,6,WC,April
+4,23,Albarino,red/orange,5,WC,April
+4,24,Albarino,yellow,5,WC,April
+4,25,Albarino,red/orange,2,WC,April
+4,26,Albarino,pink,6,WC,April
+4,27,Tinta Francisca,pink,2,WC,April
+4,28,Tinta Francisca,red/orange,1,WC,April
+4,29,Tinta Francisca,red/orange,1,WC,April
+4,30,Tinta Francisca,pink,2,WC,April
+4,31,Tinta Francisca,yellow,3,WC,April
+6,2,Albarino,yellow,9,WC,April
+6,3,Albarino,pink,1,WC,April
+6,4,Albarino,red/orange,6,WC,April
+6,5,Albarino,pink,2,WC,April
+6,6,Albarino,pink,4,WC,April
+7,7,Albarino,pink,7,WC,April
+7,8,Albarino,red/orange,5,WC,April
+7,10,Albarino,red/orange,4,WC,April
+7,32,Albarino,yellow,5,WC,April
+7,33,Albarino,red/orange,3,WC,April
+7,34,Albarino,yellow,9,WC,April
+7,35,Albarino,red/orange,2,WC,April
+7,36,Albarino,red/orange,4,WC,April
+8,17,Albarino,red/orange,4,WC,April
+8,18,Albarino,yellow,1,WC,April
+8,19,Albarino,yellow,3,WC,April
+8,21,Albarino,yellow,3,WC,April
+8,27,Albarino,pink,7,WC,April
+8,28,Albarino,yellow,4,WC,April
+8,29,Albarino,pink,7,WC,April
+8,30,Albarino,red/orange,9,WC,April
+8,32,Tannat,red/orange,1,WC,April
+8,33,Tannat,yellow,0,WC,April
+8,34,Tannat,yellow,1,WC,April
+8,35,Tannat,red/orange,1,WC,April
+8,36,Tannat,yellow,1,WC,April
+9,2,Tannat,red/orange,1,WC,April
+9,4,Tannat,yellow,1,WC,April
+9,6,Tannat,red/orange,1,WC,April
+9,27,Tannat,red/orange,1,WC,April
+9,28,Tannat,yellow,1,WC,April
+9,29,Tannat,red/orange,1,WC,April
+9,30,Tannat,red/orange,1,WC,April
+9,31,Tannat,pink,1,WC,April
+10,22,Tinta Francisca,pink,1,WC,April
+10,23,Tinta Francisca,yellow,1,WC,April
+10,24,Tinta Francisca,yellow,1,WC,April
+10,25,Tinta Francisca,pink,1,WC,April
+10,26,Tinta Francisca,yellow,1,WC,April
+10,37,Tannat,yellow,1,WC,April
+10,38,Tannat,pink,1,WC,April
+10,39,Tannat,red/orange,1,WC,April
+10,40,Tannat,red/orange,1,WC,April
+10,41,Tannat,yellow,1,WC,April
+11,2,Tinta Francisca,red/orange,1,WC,April
+11,3,Tinta Francisca,yellow,1,WC,April
+11,4,Tinta Francisca,yellow,1,WC,April
+11,5,Tinta Francisca,red/orange,1,WC,April
+11,6,Tinta Francisca,red/orange,1,WC,April
+12,7,Tinta Francisca,red/orange,1,WC,April
+12,8,Tinta Francisca,red/orange,1,WC,April
+12,9,Tinta Francisca,yellow,1,WC,April
+12,10,Tinta Francisca,yellow,1,WC,April
+12,11,Tinta Francisca,yellow,5,WC,April
+12,12,Tannat,yellow,2,WC,April
+12,13,Tannat,pink,1,WC,April
+12,14,Tannat,pink,1,WC,April
+12,15,Tannat,yellow,1,WC,April
+12,16,Tannat,red/orange,1,WC,April
+13,38,Tinta Francisca,yellow,1,WC,April
+13,39,Tinta Francisca,red/orange,1,WC,April
+13,40,Tinta Francisca,red/orange,1,WC,April
+13,41,Tinta Francisca,red/orange,1,WC,April
+14,7,Tannat,pink,6,WC,April
+14,8,Tannat,red/orange,1,WC,April
+14,9,Tannat,yellow,2,WC,April
+14,10,Tannat,pink,1,WC,April
+14,11,Tannat,yellow,1,WC,April
+14,22,Tannat,pink,1,WC,April
+14,23,Tannat,red/orange,1,WC,April
+14,24,Tannat,yellow,1,WC,April
+14,25,Tannat,pink,1,WC,April
+14,26,Tannat,red/orange,1,WC,April
+15,33,Tinta Francisca,yellow,1,WC,April
+15,34,Tinta Francisca,pink,1,WC,April
+15,35,Tinta Francisca,pink,1,WC,April
+15,36,Tinta Francisca,red/orange,1,WC,April
+16,12,Tinta Francisca,pink,1,WC,April
+16,13,Tinta Francisca,pink,1,WC,April
+16,14,Tinta Francisca,red/orange,1,WC,April
+16,16,Tinta Francisca,yellow,1,WC,April
+16,17,Tannat,pink,0,WC,April
+16,18,Tannat,red/orange,1,WC,April
+16,19,Tannat,pink,1,WC,April
+16,20,Tannat,yellow,1,WC,April
+16,21,Tannat,yellow,1,WC,April
+2,22,Albarino,yellow,9,EC,April
+2,23,Albarino,yellow,4,EC,April
+2,24,Albarino,yellow,6,EC,April
+2,25,Albarino,pink,4,EC,April
+3,17,Tinta Francisca,red/orange,2,EC,April
+3,18,Tinta Francisca,red/orange,1,EC,April
+3,19,Tinta Francisca,yellow,1,EC,April
+3,20,Tinta Francisca,yellow,1,EC,April
+3,21,Tinta Francisca,pink,2,EC,April
+4,8,Greco di Tufo,red/orange,0,EC,April
+4,9,Greco di Tufo,red/orange,0,EC,April
+4,12,Albarino,pink,4,EC,April
+4,13,Albarino,yellow,2,EC,April
+4,14,Albarino,red/orange,8,EC,April
+4,16,Albarino,red/orange,15,EC,April
+4,23,Albarino,red/orange,5,EC,April
+4,24,Albarino,yellow,9,EC,April
+4,25,Albarino,red/orange,4,EC,April
+4,26,Albarino,pink,2,EC,April
+4,27,Tinta Francisca,pink,2,EC,April
+4,28,Tinta Francisca,red/orange,2,EC,April
+4,29,Tinta Francisca,red/orange,2,EC,April
+4,30,Tinta Francisca,pink,5,EC,April
+4,31,Tinta Francisca,yellow,3,EC,April
+6,2,Albarino,yellow,14,EC,April
+6,3,Albarino,pink,7,EC,April
+6,4,Albarino,red/orange,10,EC,April
+6,5,Albarino,pink,7,EC,April
+6,6,Albarino,pink,5,EC,April
+7,7,Albarino,pink,6,EC,April
+7,8,Albarino,red/orange,3,EC,April
+7,10,Albarino,red/orange,6,EC,April
+7,32,Albarino,yellow,8,EC,April
+7,33,Albarino,red/orange,9,EC,April
+7,34,Albarino,yellow,9,EC,April
+7,35,Albarino,red/orange,6,EC,April
+7,36,Albarino,red/orange,10,EC,April
+8,17,Albarino,red/orange,7,EC,April
+8,18,Albarino,yellow,3,EC,April
+8,19,Albarino,yellow,8,EC,April
+8,21,Albarino,yellow,6,EC,April
+8,27,Albarino,pink,10,EC,April
+8,28,Albarino,yellow,4,EC,April
+8,29,Albarino,pink,7,EC,April
+8,30,Albarino,red/orange,8,EC,April
+8,32,Tannat,red/orange,3,EC,April
+8,33,Tannat,yellow,2,EC,April
+8,34,Tannat,yellow,2,EC,April
+8,35,Tannat,red/orange,2,EC,April
+8,36,Tannat,yellow,3,EC,April
+9,2,Tannat,red/orange,1,EC,April
+9,4,Tannat,yellow,1,EC,April
+9,6,Tannat,red/orange,1,EC,April
+9,27,Tannat,red/orange,1,EC,April
+9,28,Tannat,yellow,1,EC,April
+9,29,Tannat,red/orange,1,EC,April
+9,30,Tannat,red/orange,1,EC,April
+9,31,Tannat,pink,1,EC,April
+10,22,Tinta Francisca,pink,1,EC,April
+10,23,Tinta Francisca,yellow,1,EC,April
+10,24,Tinta Francisca,yellow,1,EC,April
+10,25,Tinta Francisca,pink,1,EC,April
+10,26,Tinta Francisca,yellow,1,EC,April
+10,37,Tannat,yellow,1,EC,April
+10,38,Tannat,pink,1,EC,April
+10,39,Tannat,red/orange,1,EC,April
+10,40,Tannat,red/orange,1,EC,April
+10,41,Tannat,yellow,1,EC,April
+11,2,Tinta Francisca,red/orange,1,EC,April
+11,3,Tinta Francisca,yellow,2,EC,April
+11,4,Tinta Francisca,yellow,1,EC,April
+11,5,Tinta Francisca,red/orange,1,EC,April
+11,6,Tinta Francisca,red/orange,1,EC,April
+12,7,Tinta Francisca,red/orange,1,EC,April
+12,8,Tinta Francisca,red/orange,2,EC,April
+12,9,Tinta Francisca,yellow,1,EC,April
+12,10,Tinta Francisca,yellow,1,EC,April
+12,11,Tinta Francisca,yellow,9,EC,April
+12,12,Tannat,yellow,1,EC,April
+12,13,Tannat,pink,1,EC,April
+12,14,Tannat,pink,4,EC,April
+12,15,Tannat,yellow,7,EC,April
+12,16,Tannat,red/orange,2,EC,April
+13,38,Tinta Francisca,yellow,1,EC,April
+13,39,Tinta Francisca,red/orange,1,EC,April
+13,40,Tinta Francisca,red/orange,1,EC,April
+13,41,Tinta Francisca,red/orange,1,EC,April
+14,7,Tannat,pink,3,EC,April
+14,8,Tannat,red/orange,2,EC,April
+14,9,Tannat,yellow,6,EC,April
+14,10,Tannat,pink,3,EC,April
+14,11,Tannat,yellow,2,EC,April
+14,22,Tannat,pink,1,EC,April
+14,23,Tannat,red/orange,1,EC,April
+14,24,Tannat,yellow,1,EC,April
+14,25,Tannat,pink,1,EC,April
+14,26,Tannat,red/orange,1,EC,April
+15,33,Tinta Francisca,yellow,1,EC,April
+15,34,Tinta Francisca,pink,1,EC,April
+15,35,Tinta Francisca,pink,1,EC,April
+15,36,Tinta Francisca,red/orange,1,EC,April
+16,12,Tinta Francisca,pink,1,EC,April
+16,13,Tinta Francisca,pink,2,EC,April
+16,14,Tinta Francisca,red/orange,1,EC,April
+16,16,Tinta Francisca,yellow,1,EC,April
+16,17,Tannat,pink,0,EC,April
+16,18,Tannat,red/orange,4,EC,April
+16,19,Tannat,pink,3,EC,April
+16,20,Tannat,yellow,6,EC,April
+16,21,Tannat,yellow,3,EC,April
+2,22,Albarino,yellow,7,EC,April
+2,23,Albarino,yellow,9,EC,April
+2,24,Albarino,yellow,7,EC,April
+2,25,Albarino,pink,7,EC,April
+3,17,Tinta Francisca,red/orange,1,EC,April
+3,18,Tinta Francisca,red/orange,1,EC,April
+3,19,Tinta Francisca,yellow,1,EC,April
+3,20,Tinta Francisca,yellow,1,EC,April
+3,21,Tinta Francisca,pink,1,EC,April
+4,8,Greco di Tufo,red/orange,0,EC,April
+4,9,Greco di Tufo,red/orange,0,EC,April
+4,12,Albarino,pink,5,EC,April
+4,13,Albarino,yellow,11,EC,April
+4,14,Albarino,red/orange,7,EC,April
+4,16,Albarino,red/orange,7,EC,April
+4,23,Albarino,red/orange,8,EC,April
+4,24,Albarino,yellow,4,EC,April
+4,25,Albarino,red/orange,6,EC,April
+4,26,Albarino,pink,2,EC,April
+4,27,Tinta Francisca,pink,2,EC,April
+4,28,Tinta Francisca,red/orange,2,EC,April
+4,29,Tinta Francisca,red/orange,2,EC,April
+4,30,Tinta Francisca,pink,4,EC,April
+4,31,Tinta Francisca,yellow,2,EC,April
+6,2,Albarino,yellow,3,EC,April
+6,3,Albarino,pink,4,EC,April
+6,4,Albarino,red/orange,6,EC,April
+6,5,Albarino,pink,7,EC,April
+6,6,Albarino,pink,5,EC,April
+7,7,Albarino,pink,5,EC,April
+7,8,Albarino,red/orange,8,EC,April
+7,10,Albarino,red/orange,2,EC,April
+7,32,Albarino,yellow,8,EC,April
+7,33,Albarino,red/orange,11,EC,April
+7,34,Albarino,yellow,5,EC,April
+7,35,Albarino,red/orange,5,EC,April
+7,36,Albarino,red/orange,10,EC,April
+8,17,Albarino,red/orange,2,EC,April
+8,18,Albarino,yellow,6,EC,April
+8,19,Albarino,yellow,7,EC,April
+8,21,Albarino,yellow,4,EC,April
+8,27,Albarino,pink,7,EC,April
+8,28,Albarino,yellow,5,EC,April
+8,29,Albarino,pink,5,EC,April
+8,30,Albarino,red/orange,8,EC,April
+8,32,Tannat,red/orange,2,EC,April
+8,33,Tannat,yellow,1,EC,April
+8,34,Tannat,yellow,2,EC,April
+8,35,Tannat,red/orange,2,EC,April
+8,36,Tannat,yellow,2,EC,April
+9,2,Tannat,red/orange,1,EC,April
+9,4,Tannat,yellow,1,EC,April
+9,6,Tannat,red/orange,1,EC,April
+9,27,Tannat,red/orange,1,EC,April
+9,28,Tannat,yellow,1,EC,April
+9,29,Tannat,red/orange,1,EC,April
+9,30,Tannat,red/orange,1,EC,April
+9,31,Tannat,pink,1,EC,April
+10,22,Tinta Francisca,pink,1,EC,April
+10,23,Tinta Francisca,yellow,1,EC,April
+10,24,Tinta Francisca,yellow,1,EC,April
+10,25,Tinta Francisca,pink,1,EC,April
+10,26,Tinta Francisca,yellow,1,EC,April
+10,37,Tannat,yellow,1,EC,April
+10,38,Tannat,pink,1,EC,April
+10,39,Tannat,red/orange,1,EC,April
+10,40,Tannat,red/orange,1,EC,April
+10,41,Tannat,yellow,1,EC,April
+11,2,Tinta Francisca,red/orange,1,EC,April
+11,3,Tinta Francisca,yellow,1,EC,April
+11,4,Tinta Francisca,yellow,1,EC,April
+11,5,Tinta Francisca,red/orange,1,EC,April
+11,6,Tinta Francisca,red/orange,1,EC,April
+12,7,Tinta Francisca,red/orange,1,EC,April
+12,8,Tinta Francisca,red/orange,1,EC,April
+12,9,Tinta Francisca,yellow,1,EC,April
+12,10,Tinta Francisca,yellow,1,EC,April
+12,11,Tinta Francisca,yellow,4,EC,April
+12,12,Tannat,yellow,1,EC,April
+12,13,Tannat,pink,1,EC,April
+12,14,Tannat,pink,2,EC,April
+12,15,Tannat,yellow,3,EC,April
+12,16,Tannat,red/orange,3,EC,April
+13,38,Tinta Francisca,yellow,1,EC,April
+13,39,Tinta Francisca,red/orange,1,EC,April
+13,40,Tinta Francisca,red/orange,1,EC,April
+13,41,Tinta Francisca,red/orange,1,EC,April
+14,7,Tannat,pink,3,EC,April
+14,8,Tannat,red/orange,1,EC,April
+14,9,Tannat,yellow,5,EC,April
+14,10,Tannat,pink,3,EC,April
+14,11,Tannat,yellow,1,EC,April
+14,22,Tannat,pink,1,EC,April
+14,23,Tannat,red/orange,1,EC,April
+14,24,Tannat,yellow,1,EC,April
+14,25,Tannat,pink,1,EC,April
+14,26,Tannat,red/orange,1,EC,April
+15,33,Tinta Francisca,yellow,1,EC,April
+15,34,Tinta Francisca,pink,1,EC,April
+15,35,Tinta Francisca,pink,1,EC,April
+15,36,Tinta Francisca,red/orange,1,EC,April
+16,12,Tinta Francisca,pink,1,EC,April
+16,13,Tinta Francisca,pink,1,EC,April
+16,14,Tinta Francisca,red/orange,1,EC,April
+16,16,Tinta Francisca,yellow,1,EC,April
+16,17,Tannat,pink,0,EC,April
+16,18,Tannat,red/orange,1,EC,April
+16,19,Tannat,pink,1,EC,April
+16,20,Tannat,yellow,6,EC,April
+16,21,Tannat,yellow,3,EC,April
+2,22,Albarino,yellow,5,EC,April
+2,23,Albarino,yellow,5,EC,April
+2,24,Albarino,yellow,2,EC,April
+2,25,Albarino,pink,7,EC,April
+3,17,Tinta Francisca,red/orange,1,EC,April
+3,18,Tinta Francisca,red/orange,1,EC,April
+3,19,Tinta Francisca,yellow,0,EC,April
+3,20,Tinta Francisca,yellow,1,EC,April
+3,21,Tinta Francisca,pink,1,EC,April
+4,8,Greco di Tufo,red/orange,0,EC,April
+4,9,Greco di Tufo,red/orange,0,EC,April
+4,12,Albarino,pink,6,EC,April
+4,13,Albarino,yellow,6,EC,April
+4,14,Albarino,red/orange,3,EC,April
+4,16,Albarino,red/orange,11,EC,April
+4,23,Albarino,red/orange,7,EC,April
+4,24,Albarino,yellow,3,EC,April
+4,25,Albarino,red/orange,3,EC,April
+4,26,Albarino,pink,9,EC,April
+4,27,Tinta Francisca,pink,1,EC,April
+4,28,Tinta Francisca,red/orange,1,EC,April
+4,29,Tinta Francisca,red/orange,2,EC,April
+4,30,Tinta Francisca,pink,1,EC,April
+4,31,Tinta Francisca,yellow,2,EC,April
+6,2,Albarino,yellow,6,EC,April
+6,3,Albarino,pink,6,EC,April
+6,4,Albarino,red/orange,1,EC,April
+6,5,Albarino,pink,5,EC,April
+6,6,Albarino,pink,3,EC,April
+7,7,Albarino,pink,5,EC,April
+7,8,Albarino,red/orange,8,EC,April
+7,10,Albarino,red/orange,4,EC,April
+7,32,Albarino,yellow,6,EC,April
+7,33,Albarino,red/orange,6,EC,April
+7,34,Albarino,yellow,4,EC,April
+7,35,Albarino,red/orange,4,EC,April
+7,36,Albarino,red/orange,3,EC,April
+8,17,Albarino,red/orange,4,EC,April
+8,18,Albarino,yellow,4,EC,April
+8,19,Albarino,yellow,6,EC,April
+8,21,Albarino,yellow,2,EC,April
+8,27,Albarino,pink,4,EC,April
+8,28,Albarino,yellow,2,EC,April
+8,29,Albarino,pink,5,EC,April
+8,30,Albarino,red/orange,8,EC,April
+8,32,Tannat,red/orange,1,EC,April
+8,33,Tannat,yellow,1,EC,April
+8,34,Tannat,yellow,4,EC,April
+8,35,Tannat,red/orange,1,EC,April
+8,36,Tannat,yellow,1,EC,April
+9,2,Tannat,red/orange,1,EC,April
+9,4,Tannat,yellow,1,EC,April
+9,6,Tannat,red/orange,1,EC,April
+9,27,Tannat,red/orange,1,EC,April
+9,28,Tannat,yellow,1,EC,April
+9,29,Tannat,red/orange,1,EC,April
+9,30,Tannat,red/orange,1,EC,April
+9,31,Tannat,pink,1,EC,April
+10,22,Tinta Francisca,pink,1,EC,April
+10,23,Tinta Francisca,yellow,1,EC,April
+10,24,Tinta Francisca,yellow,1,EC,April
+10,25,Tinta Francisca,pink,1,EC,April
+10,26,Tinta Francisca,yellow,1,EC,April
+10,37,Tannat,yellow,1,EC,April
+10,38,Tannat,pink,1,EC,April
+10,39,Tannat,red/orange,1,EC,April
+10,40,Tannat,red/orange,1,EC,April
+10,41,Tannat,yellow,1,EC,April
+11,2,Tinta Francisca,red/orange,1,EC,April
+11,3,Tinta Francisca,yellow,1,EC,April
+11,4,Tinta Francisca,yellow,1,EC,April
+11,5,Tinta Francisca,red/orange,1,EC,April
+11,6,Tinta Francisca,red/orange,1,EC,April
+12,7,Tinta Francisca,red/orange,1,EC,April
+12,8,Tinta Francisca,red/orange,1,EC,April
+12,9,Tinta Francisca,yellow,1,EC,April
+12,10,Tinta Francisca,yellow,1,EC,April
+12,11,Tinta Francisca,yellow,9,EC,April
+12,12,Tannat,yellow,1,EC,April
+12,13,Tannat,pink,1,EC,April
+12,14,Tannat,pink,2,EC,April
+12,15,Tannat,yellow,1,EC,April
+12,16,Tannat,red/orange,1,EC,April
+13,38,Tinta Francisca,yellow,1,EC,April
+13,39,Tinta Francisca,red/orange,1,EC,April
+13,40,Tinta Francisca,red/orange,1,EC,April
+13,41,Tinta Francisca,red/orange,1,EC,April
+14,7,Tannat,pink,1,EC,April
+14,8,Tannat,red/orange,3,EC,April
+14,9,Tannat,yellow,1,EC,April
+14,10,Tannat,pink,1,EC,April
+14,11,Tannat,yellow,1,EC,April
+14,22,Tannat,pink,1,EC,April
+14,23,Tannat,red/orange,1,EC,April
+14,24,Tannat,yellow,1,EC,April
+14,25,Tannat,pink,1,EC,April
+14,26,Tannat,red/orange,1,EC,April
+15,33,Tinta Francisca,yellow,1,EC,April
+15,34,Tinta Francisca,pink,1,EC,April
+15,35,Tinta Francisca,pink,1,EC,April
+15,36,Tinta Francisca,red/orange,1,EC,April
+16,12,Tinta Francisca,pink,1,EC,April
+16,13,Tinta Francisca,pink,1,EC,April
+16,14,Tinta Francisca,red/orange,1,EC,April
+16,16,Tinta Francisca,yellow,1,EC,April
+16,17,Tannat,pink,0,EC,April
+16,18,Tannat,red/orange,1,EC,April
+16,19,Tannat,pink,1,EC,April
+16,20,Tannat,yellow,4,EC,April
+16,21,Tannat,yellow,2,EC,April
+2,22,Albarino,yellow,10,E,April
+2,23,Albarino,yellow,7,E,April
+2,24,Albarino,yellow,7,E,April
+2,25,Albarino,pink,9,E,April
+3,17,Tinta Francisca,red/orange,2,E,April
+3,18,Tinta Francisca,red/orange,0,E,April
+3,19,Tinta Francisca,yellow,1,E,April
+3,20,Tinta Francisca,yellow,2,E,April
+3,21,Tinta Francisca,pink,3,E,April
+4,8,Greco di Tufo,red/orange,0,E,April
+4,9,Greco di Tufo,red/orange,0,E,April
+4,12,Albarino,pink,1,E,April
+4,13,Albarino,yellow,9,E,April
+4,14,Albarino,red/orange,8,E,April
+4,16,Albarino,red/orange,6,E,April
+4,23,Albarino,red/orange,9,E,April
+4,24,Albarino,yellow,5,E,April
+4,25,Albarino,red/orange,0,E,April
+4,26,Albarino,pink,4,E,April
+4,27,Tinta Francisca,pink,3,E,April
+4,28,Tinta Francisca,red/orange,4,E,April
+4,29,Tinta Francisca,red/orange,2,E,April
+4,30,Tinta Francisca,pink,1,E,April
+4,31,Tinta Francisca,yellow,3,E,April
+6,2,Albarino,yellow,2,E,April
+6,3,Albarino,pink,4,E,April
+6,4,Albarino,red/orange,7,E,April
+6,5,Albarino,pink,11,E,April
+6,6,Albarino,pink,2,E,April
+7,7,Albarino,pink,6,E,April
+7,8,Albarino,red/orange,8,E,April
+7,10,Albarino,red/orange,7,E,April
+7,32,Albarino,yellow,5,E,April
+7,33,Albarino,red/orange,2,E,April
+7,34,Albarino,yellow,8,E,April
+7,35,Albarino,red/orange,4,E,April
+7,36,Albarino,red/orange,9,E,April
+8,17,Albarino,red/orange,7,E,April
+8,18,Albarino,yellow,13,E,April
+8,19,Albarino,yellow,7,E,April
+8,21,Albarino,yellow,9,E,April
+8,27,Albarino,pink,6,E,April
+8,28,Albarino,yellow,6,E,April
+8,29,Albarino,pink,4,E,April
+8,30,Albarino,red/orange,10,E,April
+8,32,Tannat,red/orange,3,E,April
+8,33,Tannat,yellow,2,E,April
+8,34,Tannat,yellow,6,E,April
+8,35,Tannat,red/orange,3,E,April
+8,36,Tannat,yellow,1,E,April
+9,2,Tannat,red/orange,1,E,April
+9,4,Tannat,yellow,1,E,April
+9,6,Tannat,red/orange,1,E,April
+9,27,Tannat,red/orange,1,E,April
+9,28,Tannat,yellow,0,E,April
+9,29,Tannat,red/orange,1,E,April
+9,30,Tannat,red/orange,1,E,April
+9,31,Tannat,pink,1,E,April
+10,22,Tinta Francisca,pink,1,E,April
+10,23,Tinta Francisca,yellow,1,E,April
+10,24,Tinta Francisca,yellow,1,E,April
+10,25,Tinta Francisca,pink,1,E,April
+10,26,Tinta Francisca,yellow,1,E,April
+10,37,Tannat,yellow,1,E,April
+10,38,Tannat,pink,1,E,April
+10,39,Tannat,red/orange,1,E,April
+10,40,Tannat,red/orange,1,E,April
+10,41,Tannat,yellow,0,E,April
+11,2,Tinta Francisca,red/orange,1,E,April
+11,3,Tinta Francisca,yellow,1,E,April
+11,4,Tinta Francisca,yellow,1,E,April
+11,5,Tinta Francisca,red/orange,1,E,April
+11,6,Tinta Francisca,red/orange,1,E,April
+12,7,Tinta Francisca,red/orange,1,E,April
+12,8,Tinta Francisca,red/orange,2,E,April
+12,9,Tinta Francisca,yellow,1,E,April
+12,10,Tinta Francisca,yellow,1,E,April
+12,11,Tinta Francisca,yellow,12,E,April
+12,12,Tannat,yellow,3,E,April
+12,13,Tannat,pink,2,E,April
+12,14,Tannat,pink,1,E,April
+12,15,Tannat,yellow,2,E,April
+12,16,Tannat,red/orange,0,E,April
+13,38,Tinta Francisca,yellow,1,E,April
+13,39,Tinta Francisca,red/orange,1,E,April
+13,40,Tinta Francisca,red/orange,1,E,April
+13,41,Tinta Francisca,red/orange,1,E,April
+14,7,Tannat,pink,1,E,April
+14,8,Tannat,red/orange,2,E,April
+14,9,Tannat,yellow,1,E,April
+14,10,Tannat,pink,1,E,April
+14,11,Tannat,yellow,1,E,April
+14,22,Tannat,pink,1,E,April
+14,23,Tannat,red/orange,1,E,April
+14,24,Tannat,yellow,0,E,April
+14,25,Tannat,pink,0,E,April
+14,26,Tannat,red/orange,1,E,April
+15,33,Tinta Francisca,yellow,1,E,April
+15,34,Tinta Francisca,pink,1,E,April
+15,35,Tinta Francisca,pink,1,E,April
+15,36,Tinta Francisca,red/orange,1,E,April
+16,12,Tinta Francisca,pink,1,E,April
+16,13,Tinta Francisca,pink,1,E,April
+16,14,Tinta Francisca,red/orange,1,E,April
+16,16,Tinta Francisca,yellow,1,E,April
+16,17,Tannat,pink,0,E,April
+16,18,Tannat,red/orange,1,E,April
+16,19,Tannat,pink,0,E,April
+16,20,Tannat,yellow,6,E,April
+16,21,Tannat,yellow,4,E,April
+2,22,Albarino,yellow,5,E,April
+2,23,Albarino,yellow,5,E,April
+2,24,Albarino,yellow,9,E,April
+2,25,Albarino,pink,10,E,April
+3,17,Tinta Francisca,red/orange,1,E,April
+3,18,Tinta Francisca,red/orange,1,E,April
+3,19,Tinta Francisca,yellow,1,E,April
+3,20,Tinta Francisca,yellow,1,E,April
+3,21,Tinta Francisca,pink,3,E,April
+4,8,Greco di Tufo,red/orange,0,E,April
+4,9,Greco di Tufo,red/orange,0,E,April
+4,12,Albarino,pink,4,E,April
+4,13,Albarino,yellow,10,E,April
+4,14,Albarino,red/orange,3,E,April
+4,16,Albarino,red/orange,7,E,April
+4,23,Albarino,red/orange,9,E,April
+4,24,Albarino,yellow,8,E,April
+4,25,Albarino,red/orange,0,E,April
+4,26,Albarino,pink,4,E,April
+4,27,Tinta Francisca,pink,2,E,April
+4,28,Tinta Francisca,red/orange,4,E,April
+4,29,Tinta Francisca,red/orange,2,E,April
+4,30,Tinta Francisca,pink,1,E,April
+4,31,Tinta Francisca,yellow,5,E,April
+6,2,Albarino,yellow,1,E,April
+6,3,Albarino,pink,5,E,April
+6,4,Albarino,red/orange,6,E,April
+6,5,Albarino,pink,5,E,April
+6,6,Albarino,pink,3,E,April
+7,7,Albarino,pink,2,E,April
+7,8,Albarino,red/orange,12,E,April
+7,10,Albarino,red/orange,9,E,April
+7,32,Albarino,yellow,7,E,April
+7,33,Albarino,red/orange,5,E,April
+7,34,Albarino,yellow,4,E,April
+7,35,Albarino,red/orange,4,E,April
+7,36,Albarino,red/orange,12,E,April
+8,17,Albarino,red/orange,1,E,April
+8,18,Albarino,yellow,7,E,April
+8,19,Albarino,yellow,6,E,April
+8,21,Albarino,yellow,7,E,April
+8,27,Albarino,pink,5,E,April
+8,28,Albarino,yellow,4,E,April
+8,29,Albarino,pink,3,E,April
+8,30,Albarino,red/orange,6,E,April
+8,32,Tannat,red/orange,1,E,April
+8,33,Tannat,yellow,1,E,April
+8,34,Tannat,yellow,4,E,April
+8,35,Tannat,red/orange,2,E,April
+8,36,Tannat,yellow,1,E,April
+9,2,Tannat,red/orange,1,E,April
+9,4,Tannat,yellow,1,E,April
+9,6,Tannat,red/orange,1,E,April
+9,27,Tannat,red/orange,1,E,April
+9,28,Tannat,yellow,0,E,April
+9,29,Tannat,red/orange,1,E,April
+9,30,Tannat,red/orange,1,E,April
+9,31,Tannat,pink,1,E,April
+10,22,Tinta Francisca,pink,1,E,April
+10,23,Tinta Francisca,yellow,1,E,April
+10,24,Tinta Francisca,yellow,1,E,April
+10,25,Tinta Francisca,pink,1,E,April
+10,26,Tinta Francisca,yellow,1,E,April
+10,37,Tannat,yellow,1,E,April
+10,38,Tannat,pink,1,E,April
+10,39,Tannat,red/orange,1,E,April
+10,40,Tannat,red/orange,1,E,April
+10,41,Tannat,yellow,0,E,April
+11,2,Tinta Francisca,red/orange,1,E,April
+11,3,Tinta Francisca,yellow,1,E,April
+11,4,Tinta Francisca,yellow,1,E,April
+11,5,Tinta Francisca,red/orange,1,E,April
+11,6,Tinta Francisca,red/orange,1,E,April
+12,7,Tinta Francisca,red/orange,1,E,April
+12,8,Tinta Francisca,red/orange,1,E,April
+12,9,Tinta Francisca,yellow,1,E,April
+12,10,Tinta Francisca,yellow,1,E,April
+12,11,Tinta Francisca,yellow,9,E,April
+12,12,Tannat,yellow,1,E,April
+12,13,Tannat,pink,1,E,April
+12,14,Tannat,pink,1,E,April
+12,15,Tannat,yellow,2,E,April
+12,16,Tannat,red/orange,0,E,April
+13,38,Tinta Francisca,yellow,1,E,April
+13,39,Tinta Francisca,red/orange,1,E,April
+13,40,Tinta Francisca,red/orange,1,E,April
+13,41,Tinta Francisca,red/orange,1,E,April
+14,7,Tannat,pink,1,E,April
+14,8,Tannat,red/orange,1,E,April
+14,9,Tannat,yellow,1,E,April
+14,10,Tannat,pink,1,E,April
+14,11,Tannat,yellow,1,E,April
+14,22,Tannat,pink,1,E,April
+14,23,Tannat,red/orange,1,E,April
+14,24,Tannat,yellow,0,E,April
+14,25,Tannat,pink,0,E,April
+14,26,Tannat,red/orange,1,E,April
+15,33,Tinta Francisca,yellow,1,E,April
+15,34,Tinta Francisca,pink,1,E,April
+15,35,Tinta Francisca,pink,1,E,April
+15,36,Tinta Francisca,red/orange,1,E,April
+16,12,Tinta Francisca,pink,1,E,April
+16,13,Tinta Francisca,pink,1,E,April
+16,14,Tinta Francisca,red/orange,1,E,April
+16,16,Tinta Francisca,yellow,1,E,April
+16,17,Tannat,pink,0,E,April
+16,18,Tannat,red/orange,1,E,April
+16,19,Tannat,pink,0,E,April
+16,20,Tannat,yellow,1,E,April
+16,21,Tannat,yellow,1,E,April
+2,22,Albarino,yellow,10,E,April
+2,23,Albarino,yellow,5,E,April
+2,24,Albarino,yellow,10,E,April
+2,25,Albarino,pink,5,E,April
+3,17,Tinta Francisca,red/orange,1,E,April
+3,18,Tinta Francisca,red/orange,1,E,April
+3,19,Tinta Francisca,yellow,1,E,April
+3,20,Tinta Francisca,yellow,1,E,April
+3,21,Tinta Francisca,pink,2,E,April
+4,8,Greco di Tufo,red/orange,0,E,April
+4,9,Greco di Tufo,red/orange,0,E,April
+4,12,Albarino,pink,4,E,April
+4,13,Albarino,yellow,5,E,April
+4,14,Albarino,red/orange,4,E,April
+4,16,Albarino,red/orange,4,E,April
+4,23,Albarino,red/orange,5,E,April
+4,24,Albarino,yellow,5,E,April
+4,25,Albarino,red/orange,0,E,April
+4,26,Albarino,pink,2,E,April
+4,27,Tinta Francisca,pink,3,E,April
+4,28,Tinta Francisca,red/orange,2,E,April
+4,29,Tinta Francisca,red/orange,2,E,April
+4,30,Tinta Francisca,pink,3,E,April
+4,31,Tinta Francisca,yellow,4,E,April
+6,2,Albarino,yellow,1,E,April
+6,3,Albarino,pink,7,E,April
+6,4,Albarino,red/orange,5,E,April
+6,5,Albarino,pink,7,E,April
+6,6,Albarino,pink,3,E,April
+7,7,Albarino,pink,5,E,April
+7,8,Albarino,red/orange,1,E,April
+7,10,Albarino,red/orange,5,E,April
+7,32,Albarino,yellow,7,E,April
+7,33,Albarino,red/orange,5,E,April
+7,34,Albarino,yellow,12,E,April
+7,35,Albarino,red/orange,5,E,April
+7,36,Albarino,red/orange,4,E,April
+8,17,Albarino,red/orange,4,E,April
+8,18,Albarino,yellow,3,E,April
+8,19,Albarino,yellow,6,E,April
+8,21,Albarino,yellow,3,E,April
+8,27,Albarino,pink,5,E,April
+8,28,Albarino,yellow,5,E,April
+8,29,Albarino,pink,3,E,April
+8,30,Albarino,red/orange,3,E,April
+8,32,Tannat,red/orange,1,E,April
+8,33,Tannat,yellow,1,E,April
+8,34,Tannat,yellow,3,E,April
+8,35,Tannat,red/orange,2,E,April
+8,36,Tannat,yellow,1,E,April
+9,2,Tannat,red/orange,1,E,April
+9,4,Tannat,yellow,1,E,April
+9,6,Tannat,red/orange,1,E,April
+9,27,Tannat,red/orange,1,E,April
+9,28,Tannat,yellow,0,E,April
+9,29,Tannat,red/orange,1,E,April
+9,30,Tannat,red/orange,1,E,April
+9,31,Tannat,pink,1,E,April
+10,22,Tinta Francisca,pink,1,E,April
+10,23,Tinta Francisca,yellow,1,E,April
+10,24,Tinta Francisca,yellow,1,E,April
+10,25,Tinta Francisca,pink,1,E,April
+10,26,Tinta Francisca,yellow,1,E,April
+10,37,Tannat,yellow,1,E,April
+10,38,Tannat,pink,1,E,April
+10,39,Tannat,red/orange,1,E,April
+10,40,Tannat,red/orange,1,E,April
+10,41,Tannat,yellow,0,E,April
+11,2,Tinta Francisca,red/orange,1,E,April
+11,3,Tinta Francisca,yellow,1,E,April
+11,4,Tinta Francisca,yellow,1,E,April
+11,5,Tinta Francisca,red/orange,1,E,April
+11,6,Tinta Francisca,red/orange,1,E,April
+12,7,Tinta Francisca,red/orange,1,E,April
+12,8,Tinta Francisca,red/orange,1,E,April
+12,9,Tinta Francisca,yellow,1,E,April
+12,10,Tinta Francisca,yellow,1,E,April
+12,11,Tinta Francisca,yellow,3,E,April
+12,12,Tannat,yellow,1,E,April
+12,13,Tannat,pink,1,E,April
+12,14,Tannat,pink,1,E,April
+12,15,Tannat,yellow,1,E,April
+12,16,Tannat,red/orange,0,E,April
+13,38,Tinta Francisca,yellow,1,E,April
+13,39,Tinta Francisca,red/orange,1,E,April
+13,40,Tinta Francisca,red/orange,1,E,April
+13,41,Tinta Francisca,red/orange,1,E,April
+14,7,Tannat,pink,1,E,April
+14,8,Tannat,red/orange,1,E,April
+14,9,Tannat,yellow,2,E,April
+14,10,Tannat,pink,1,E,April
+14,11,Tannat,yellow,1,E,April
+14,22,Tannat,pink,1,E,April
+14,23,Tannat,red/orange,1,E,April
+14,24,Tannat,yellow,0,E,April
+14,25,Tannat,pink,0,E,April
+14,26,Tannat,red/orange,1,E,April
+15,33,Tinta Francisca,yellow,1,E,April
+15,34,Tinta Francisca,pink,1,E,April
+15,35,Tinta Francisca,pink,1,E,April
+15,36,Tinta Francisca,red/orange,1,E,April
+16,12,Tinta Francisca,pink,1,E,April
+16,13,Tinta Francisca,pink,1,E,April
+16,14,Tinta Francisca,red/orange,1,E,April
+16,16,Tinta Francisca,yellow,1,E,April
+16,17,Tannat,pink,0,E,April
+16,18,Tannat,red/orange,1,E,April
+16,19,Tannat,pink,0,E,April
+16,20,Tannat,yellow,3,E,April
+16,21,Tannat,yellow,1,E,April

@@ -20,7 +20,7 @@ Row,Vine,Variety,Treatment
 3,16,Greco di Tufo,Bakersfield
 3,17,Tinta Francisca,Hopland
 3,18,Tinta Francisca,Hopland
-3,19,Tinta Francisca,Bakersfield
+3,19,Tinta Francisca,Hopland
 3,20,Tinta Francisca,Bakersfield
 3,21,Tinta Francisca,control
 3,22,Petit Manseng,Bakersfield
@@ -47,7 +47,6 @@ Row,Vine,Variety,Treatment
 4,13,Albarino,Bakersfield
 4,14,Albarino,Hopland
 4,16,Albarino,Hopland
-4,22,Albarino,control
 4,23,Albarino,Hopland
 4,24,Albarino,Bakersfield
 4,25,Albarino,Hopland
@@ -57,11 +56,11 @@ Row,Vine,Variety,Treatment
 4,29,Tinta Francisca,Hopland
 4,30,Tinta Francisca,control
 4,31,Tinta Francisca,Bakersfield
-4,32,Graciano,Hopland
-4,33,Graciano,control
-4,34,Graciano,Bakersfield
-4,35,Graciano,Bakersfield
-4,36,Graciano,Hopland
+4,32,Tempranillo,Hopland
+4,33,Tempranillo,control
+4,34,Tempranillo,Bakersfield
+4,35,Tempranillo,Bakersfield
+4,36,Tempranillo,Hopland
 4,37,Ciliegiolo,control
 4,38,Ciliegiolo,Bakersfield
 4,39,Ciliegiolo,Hopland
@@ -140,11 +139,11 @@ Row,Vine,Variety,Treatment
 6,34,Falanghina,Bakersfield
 6,35,Falanghina,Bakersfield
 6,36,Falanghina,control
-6,37,Graciano,Bakersfield
-6,38,Graciano,Hopland
-6,39,Graciano,control
-6,40,Graciano,Hopland
-6,41,Graciano,control
+6,37,Tempranillo,Bakersfield
+6,38,Tempranillo,Hopland
+6,39,Tempranillo,control
+6,40,Tempranillo,Hopland
+6,41,Tempranillo,control
 7,3,Mencia,control
 7,5,Mencia,Hopland
 7,6,Mencia,control
@@ -156,11 +155,11 @@ Row,Vine,Variety,Treatment
 7,14,Sagrantino,Hopland
 7,15,Sagrantino,Hopland
 7,16,Sagrantino,Hopland
-7,17,Graciano,Hopland
-7,18,Graciano,control
-7,19,Graciano,control
-7,20,Graciano,Hopland
-7,21,Graciano,Hopland
+7,17,Tempranillo,Hopland
+7,18,Tempranillo,control
+7,19,Tempranillo,control
+7,20,Tempranillo,Hopland
+7,21,Tempranillo,Hopland
 7,22,Ciliegiolo,Hopland
 7,23,Ciliegiolo,control
 7,24,Ciliegiolo,Hopland
@@ -212,13 +211,10 @@ Row,Vine,Variety,Treatment
 8,40,Periquita,Hopland
 8,41,Periquita,Bakersfield
 9,2,Tannat,Hopland
-9,3,Tannat,Hopland
 9,4,Tannat,Bakersfield
-9,5,Tannat,Bakersfield
 9,6,Tannat,Hopland
 9,7,Tinta Amarella,Hopland
 9,8,Tinta Amarella,control
-9,9,Tinta Amarella,Bakersfield
 9,11,Tinta Amarella,control
 9,12,Petit Manseng,Hopland
 9,13,Petit Manseng,Bakersfield
@@ -282,11 +278,11 @@ Row,Vine,Variety,Treatment
 11,4,Tinta Francisca,Bakersfield
 11,5,Tinta Francisca,Hopland
 11,6,Tinta Francisca,Hopland
-11,7,Graciano,control
-11,8,Graciano,Hopland
-11,9,Graciano,Bakersfield
-11,10,Graciano,Hopland
-11,11,Graciano,control
+11,7,Tempranillo,control
+11,8,Tempranillo,Hopland
+11,9,Tempranillo,Bakersfield
+11,10,Tempranillo,Hopland
+11,11,Tempranillo,control
 11,12,Periquita,Bakersfield
 11,13,Periquita,control
 11,14,Periquita,control
@@ -336,11 +332,11 @@ Row,Vine,Variety,Treatment
 12,19,Ciliegiolo,Bakersfield
 12,20,Ciliegiolo,Bakersfield
 12,21,Ciliegiolo,Bakersfield
-12,22,Graciano,Bakersfield
-12,23,Graciano,Bakersfield
-12,24,Graciano,Bakersfield
-12,25,Graciano,control
-12,26,Graciano,control
+12,22,Tempranillo,Bakersfield
+12,23,Tempranillo,Bakersfield
+12,24,Tempranillo,Bakersfield
+12,25,Tempranillo,control
+12,26,Tempranillo,control
 12,27,Periquita,Bakersfield
 12,28,Periquita,Hopland
 12,29,Periquita,Bakersfield
@@ -360,11 +356,11 @@ Row,Vine,Variety,Treatment
 13,9,Ciliegiolo,Hopland
 13,10,Ciliegiolo,Hopland
 13,11,Ciliegiolo,Hopland
-13,12,Graciano,control
-13,13,Graciano,Hopland
-13,14,Graciano,Bakersfield
-13,15,Graciano,Bakersfield
-13,16,Graciano,Hopland
+13,12,Tempranillo,control
+13,13,Tempranillo,Hopland
+13,14,Tempranillo,Bakersfield
+13,15,Tempranillo,Bakersfield
+13,16,Tempranillo,Hopland
 13,17,Falanghina,Bakersfield
 13,18,Falanghina,control
 13,19,Falanghina,Bakersfield
@@ -471,10 +467,10 @@ Row,Vine,Variety,Treatment
 16,24,Teroldego,Bakersfield
 16,25,Teroldego,Hopland
 16,26,Teroldego,Hopland
-16,27,Graciano,Hopland
-16,28,Graciano,Bakersfield
-16,29,Graciano,Bakersfield
-16,30,Graciano,Bakersfield
+16,27,Tempranillo,Hopland
+16,28,Tempranillo,Bakersfield
+16,29,Tempranillo,Bakersfield
+16,30,Tempranillo,Bakersfield
 16,32,Petit Manseng,Bakersfield
 16,33,Petit Manseng,Bakersfield
 16,34,Petit Manseng,Hopland

@@ -26,7 +26,7 @@ Fast 7500 Mode,,,,,,,,,,,,,
 Data Collection :  Stage 2 Step 3,,,,,,,,,,,,,
 PCR Volume: 20 µL,,,,,,,,,,,,,
 ,,,,,,,,,,,,,
-Well,Sample Name,Detector,Task,Ct,StdDev Ct,Quantity,Mean Qty,StdDev Qty,Filtered,Tm,User Defined #1,User Defined #2,User Defined #3
+Well,Sample Name,Detector,Task,Ct,StdDev Ct,Qty,Mean Qty,StdDev Qty,Filtered,Tm,User Defined #1,User Defined #2,User Defined #3
 A1,161,Rec_F1,Unknown,Undetermined,,,,,,65.3,,,
 A2,161,Rec_F1,Unknown,Undetermined,,,,,,65,,,
 A3,169,Rec_F1,Unknown,Undetermined,,,,,,65,,,
