@@ -39,7 +39,7 @@ input_qpcr_files<- function(setup_path, raw_data_path){
 }
 
 determine_positives<- function(summary, ct_cutoff){ 
-  summary$CFUperG <- (10 ^ ((log10(summary$mean) - 1.54) / -0.0454) ) *62500
+  summary$CFUperG <- (summary$mean * -0.245 + 12.8)
   ### add an infected column 
   summary$Status<- ''
   summary$Response <- 0
@@ -52,7 +52,7 @@ determine_positives<- function(summary, ct_cutoff){
     }
   }
   
-  summary$log <- log10(summary$CFUperG)
+  summary$log <- (summary$CFUperG)
   summary$log[summary$Status != 'Xf+'] <- 0 
   
   summary$year<- format(as.Date(summary$Sample.Date, format="%m/%d/%y"),"%Y")

@@ -182,14 +182,14 @@ overwinter_sum22_tr<- overwinter %>%
   filter(Recovery_22 != 'never', ! is.na(Recovery_22), Treatment!= 'control') %>%
   group_by(Treatment) %>% # add var / treat
   dplyr::summarize(recovered = sum(Recovery_22 == 1), n = n()) %>%
-  mutate(recover_perc = recovered / n * 100)%>%
+  mutate(survival_perc = 100 - recovered / n * 100)%>%
   mutate(year = '2022')
 
 overwinter_sum23_tr<- overwinter %>%
   filter(Recovery_23 != 'never', ! is.na(Recovery_23), Recovery_23!= 'rec22',  Treatment!= 'control') %>%
   group_by(Treatment) %>%  ## add var
   dplyr::summarize(recovered = sum(Recovery_23 == 1), n = n()) %>%
-  mutate(recover_perc = recovered / n * 100) %>%
+  mutate(survival_perc = 100 - recovered / n * 100) %>%
   mutate(year = '2023')
 
 overwinter_sum_tr<- rbind(overwinter_sum22_tr, overwinter_sum23_tr) %>%
@@ -199,14 +199,14 @@ overwinter_sum22_var<- overwinter %>%
   filter(Recovery_22 != 'never', ! is.na(Recovery_22), Treatment!= 'control') %>%
   group_by(Variety) %>% 
   dplyr::summarize(recovered = sum(Recovery_22 == 1), n = n()) %>%
-  mutate(recover_perc = recovered / n * 100)%>%
+  mutate(survival_perc = 100 - recovered / n * 100)%>%
   mutate(year = '2022')
 
 overwinter_sum23_var<- overwinter %>%
   filter(Recovery_23 != 'never', ! is.na(Recovery_23), Recovery_23!= 'rec22',  Treatment!= 'control') %>%
   group_by(Variety) %>% 
   dplyr::summarize(recovered = sum(Recovery_23 == 1), n = n()) %>%
-  mutate(recover_perc = recovered / n * 100) %>%
+  mutate(survival_perc = 100 - recovered / n * 100) %>%
   mutate(year = '2023')
 
 overwinter_sum_var<- rbind(overwinter_sum22_var, overwinter_sum23_var) %>%
@@ -218,21 +218,21 @@ overwinter_sum_total<- overwinter %>%
   group_by(Variety) %>% 
   filter(Treatment != 'control') %>% 
   dplyr::summarize(pos_2021 = sum(Pos2021 == 1), pos_2023 = sum(Pos2023==1), n = n()) %>%
-  mutate(recover_perc = 100 - (pos_2023 / pos_2021 * 100))
+  mutate(survival_perc =  (pos_2023 / pos_2021 * 100))
 
 ## correlate this with susceptibility 
 sum_ct <- merge(overwinter_sum_total, sum_ct, by = "Variety")
 
-### take highest estimate from previous year 
-## restrict to Side 1? or month 9? or what? 
 season_21<- summary %>% 
-  filter(year == '2021', Side == 1) %>%
-  group_by(VineID, Treatment, Variety) %>%
+  filter(year == '2021') %>%
+  group_by(VineID, Treatment, Variety) %>% 
+  arrange(desc(month)) %>% 
   summarize(log_min = max(log))
 
 season_22<- summary %>% 
-  filter(year == '2022', Side == 1) %>%
+  filter(year == '2022') %>%
   group_by(VineID, Treatment, Variety) %>%
+  arrange(desc(month)) %>% 
   summarize(log_min = max(log))
 
 overwinter_withCT<- merge(overwinter, season_21, by=c('Treatment', 'Variety', 'VineID'), all.x = T)
@@ -417,3 +417,4 @@ chill_sum <- all_temps %>%
   mutate(totalhours_0 = base::cumsum(chill_sum_0), 
          totalhours_7 = base::cumsum(chill_sum_7)) %>% 
   pivot_longer(cols = c(totalhours_0, totalhours_7))
+

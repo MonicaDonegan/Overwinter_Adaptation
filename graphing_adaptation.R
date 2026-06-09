@@ -24,7 +24,7 @@ chill_sum %>%
   strip.text.y = element_text(angle = 0))
   
 # Figure 1B - left
-fig1b_left <- summarize_allvar_tr %>%
+fig1b_top <- summarize_allvar_tr %>%
   filter(Treatment %in% c('Bakersfield', 'Hopland'), year == '2021') %>%
   mutate(strain = case_when(Treatment == 'Bakersfield'~ 'Je115', 
                             Treatment == 'Hopland' ~ 'D06', 
@@ -32,17 +32,19 @@ fig1b_left <- summarize_allvar_tr %>%
   ggplot( aes(x=strain,  y = percent_infected, fill = strain)) +
   geom_col(position = 'dodge') +
   scale_colour_manual(aesthetics = c("colour", "fill"),values = BlueRed(2))+  
-  annotate("text", label = "n.s.", x = 1.5, y = 75) +
+  annotate("text", label = "n.s.", x = 1.5, y = 85) +
   ylim(0,100) + 
   theme_bw() +
-  labs(x = 'Strain', y ='Infection success', fill = "Positive" ) +
+  labs(x = 'Strain', y ='Inf. success', fill = "Positive" ) +
   theme(
     legend.position = 'none',
-    axis.title.x = element_blank(),
     plot.title = element_text(size=11),
     strip.text = element_text(size = 8), 
-    strip.text.y = element_text(angle = 0)
-  ) 
+    strip.text.y = element_text(angle = 0), 
+    axis.text.x = element_blank(), 
+    axis.ticks.x = element_blank(), 
+    axis.title.x = element_blank()
+  )  
 
 # Figure 1B - center
 fig1b_mid<- summary %>%
@@ -61,19 +63,21 @@ fig1b_mid<- summary %>%
   geom_boxplot( outlier.size =0.5) +
   geom_point(aes(fill=Treatment), 
              position=position_dodge(width=0.75) , size =0.5) + 
-  xlab('Strain') + 
   ylab('log(CFU/g)') + 
+  ylim(3.5, 8) + 
   scale_colour_manual(aesthetics = c("colour", "fill"),values = (BlueRed(2)))+
-  annotate("text", label = "n.s.", x = 1.5, y = 8) +
+  annotate("text", label = "n.s.", x = 1.5, y = 7.5) +
   theme_bw() + 
   theme(
     axis.title.x = element_blank(),
-    plot.title = element_text(size=11), 
+    plot.title = element_text(size=11),
+    axis.text.x = element_blank(), 
+    axis.ticks.x = element_blank(),
     legend.position = 'none'
   )  
 
 # Figure 1B - right
-fig1b_right<- symp_sum %>% 
+fig1b_bottom<- symp_sum %>% 
   mutate(strain = case_when(Treatment == 'Bakersfield'~ 'Je115', 
                             Treatment == 'Hopland' ~ 'D06', 
                             TRUE~ 'control')) %>% 
@@ -81,24 +85,31 @@ fig1b_right<- symp_sum %>%
   ggplot(aes(x = strain, y = symptom_perc * 100, fill = strain)) +
   geom_col(position = 'dodge') + 
   annotate("text", label = "p=0.0004", x = 1.5, y = 75) +
-  ylab('Symptom Incidence') + 
+  ylab('Sympt. Inc.') + 
   xlab('Strain') + 
   scale_colour_manual(aesthetics = c("colour", "fill"),values = (BlueRed(2))) + 
   ylim(0,100) +
   theme_bw()+
   theme(
-    axis.title.x = element_blank(),
     legend.position="none",
-    plot.title = element_text(size=11), 
-    text=element_text(size=11),strip.text.y = element_text(angle = 0))
+    plot.title = element_text(size=11),
+    strip.text = element_text(size = 8), 
+    text=element_text(size=11),
+    strip.text.y = element_text(angle = 0))
 
 ## Figure 1C - left
-fig1c_left<- infection_by_var %>% 
+fig1c_top<- infection_by_var %>% 
   mutate(Variety = fct_reorder(Variety, perc)) %>%
   ggplot(aes(Variety, perc)) + 
   geom_col() + 
-  theme_bw() + 
-  coord_flip()
+  ylim(0, 100) + 
+  annotate("text", label = "p=0.00015", x = 7, y = 85) +
+  theme_bw() +
+  theme(
+    axis.title = element_blank(),
+    axis.text = element_blank(), 
+    axis.ticks = element_blank()
+  ) 
 
 # Figure 1C - center
 fig1c_mid<- summary %>%
@@ -111,35 +122,36 @@ fig1c_mid<- summary %>%
   ggplot( aes(x=Variety, y=log)) +
   geom_boxplot( outlier.size =0.5) +
   geom_point(position=position_dodge(width=0.75) , size =0.5) + 
+  ylim(3.5, 8) + 
   ylab('log(CFU/g)') + 
+  annotate("text", label = "p=0.0078", x = 7, y = 7.5) + 
   theme_bw() + 
   theme(
     plot.title = element_text(size=11), 
-    axis.title.y = element_blank(),
-    axis.text.y = element_blank(),
-    axis.ticks.y = element_blank()
-  ) + 
-  coord_flip()
+    axis.title = element_blank(),
+    axis.text = element_blank() , 
+    axis.ticks = element_blank())
 
 # Figure 1C - right
-fig1c_right<- symp_sum_var %>% 
+fig1c_bottom<- symp_sum_var %>% 
   mutate(Variety = factor(Variety, levels = rev(c('Tinta Francisca', 'Sagrantino', 'Albarino', 'Tinta Amarella', 'Petit Manseng', 'Tempranillo', 'Greco di Tufo', 'Mencia', 'Tannat', 'Periquita', 'Falanghina', 'Ciliegiolo', 'Teroldego')))) %>%
   filter(! is.na(Direction), year == '2021') %>%
   ggplot(aes(x = Variety, y = symptom_perc * 100)) +
   geom_col(position = 'dodge') + 
-  ylab('Percentage of Xf+ Symptomatic Vines') + 
+  ylim(0, 100) + 
+  annotate("text", label = "n.s.", x = 7, y = 75) +
   theme_bw() + 
   theme(axis.title.y = element_blank(),
-        axis.text.y = element_blank(),
-        axis.ticks.y = element_blank()) +
-  coord_flip()
+        axis.text.y = element_blank(), 
+        axis.ticks.y = element_blank(), 
+        axis.text.x = element_text(angle = 60, hjust = 1))
 
 fig1<- '
-AABBCC
-DDEEFF
-DDEEFF'
+AADDDD
+BBEEEE
+CCFFFF'
 
-fig1b_left + fig1b_mid + fig1b_right + fig1c_left + fig1c_mid + fig1c_right + plot_layout(design = fig1)
+fig1b_top + fig1b_mid + fig1b_bottom+ fig1c_top + fig1c_mid + fig1c_bottom + plot_layout(design = fig1)
 
 # Figure 2B 
 mv_graph<- movement %>%
@@ -178,22 +190,24 @@ strain_ow<- overwinter_sum_tr %>%
     Treatment == 'Bakersfield'~'Je115', 
     TRUE ~ 'control'
   )) %>% 
-  ggplot( aes(factor(strain, levels = rev(levels(factor(strain)))), recover_perc, fill = strain)) +
+  ggplot( aes(factor(strain, levels = rev(levels(factor(strain)))), survival_perc, fill = strain)) +
   geom_col() + 
   scale_colour_manual(aesthetics = c("colour", "fill"),values = BlueRed(2))+  
-  ylab("Overwinter Recovery")+ 
+  ylab("Overwinter Pathogen Survival")+ 
   xlab("Xf strain") +
   ylim(0,100) + 
   facet_wrap(~year) + theme_bw() + 
   theme(
     plot.title = element_text(size=11), 
     text=element_text(size=11),
+    legend.position = "none",
+    axis.title.x = element_blank(),
     strip.text.y = element_text(angle = 0)
   ) + coord_flip()
 
 # Figure 3B
 var_ow<- overwinter_sum_var %>%
-  ggplot( aes(Variety, recover_perc, group = Variety, fill= Variety)) +
+  ggplot( aes(Variety, survival_perc, group = Variety, fill= Variety)) +
   geom_col(position = "dodge") + 
   ylim(0,100) + 
   scale_colour_manual(aesthetics = c("colour", "fill"), values = c(rep('gray',4), "#619CFF", rep('gray', 5), "#00BA38", "gray", "#F8766D" ))+  
@@ -204,7 +218,7 @@ var_ow<- overwinter_sum_var %>%
     strip.text.y = element_text(angle = 0), 
     legend.position = "none"
   )+
-  ylab("Overwinter Recovery Percentage")+ 
+  ylab("Overwinter Pathogen Survival")+ 
   facet_wrap(~year) + 
   coord_flip()
 
@@ -290,17 +304,17 @@ summary %>%
   ggplot(aes(mean, fill = result)) +   geom_histogram() + facet_wrap(~Response, scales = 'free') + xlab('CT') + theme_bw()
 
 # Figure S4A 
-false_negatives %>% 
+s4a<- false_negatives %>% 
   mutate(year = as.factor(ifelse(name == 'Pos2021', 2021, 2022))) %>%
   ggplot(aes(Variety, n, fill = year)) + 
   geom_col(position = 'stack') + 
   ggtitle('False negatives') + 
   coord_flip() + 
-  ggtitle("(A) False negatives by Variety") +  theme(
-    plot.title = element_text(size=11))
+  ggtitle("(A) False negatives by Variety") +    theme_bw() + theme(
+    plot.title = element_text(size=11)) 
 
 # Figure S4B
-overwinter_fn %>%
+s4b<- overwinter_fn %>%
   pivot_longer(Pos2021:Pos2023, values_to = 'pos', names_to = 'year') %>%
   mutate(year = gsub('Pos', '', year)) %>% 
   group_by(year, Treatment) %>%  
@@ -325,14 +339,16 @@ overwinter_fn %>%
     legend.key.size = unit(1.25, 'cm')
   ) + ggtitle('(B) Inferred Positives')
 
+s4a + s4b
+
 # Figure S9
 corr_1 <- sum_ct %>% ggplot(aes(log_ct, perc)) + 
-  geom_point() + geom_smooth(method = lm) + 
-  xlab('Log(CFU/g)') + ylab('Infection Success') + theme_bw()
+  geom_point() + geom_smooth(method = lm) +
+  xlab('Log(CFU/g)') + ylab('Infection Success') + theme_bw() 
 
 corr_2 <- sum_ct %>% ggplot(aes(perc, symptom_perc)) + 
   geom_point() + geom_smooth(method = lm) + 
-  xlab('Infection Success') + ylab('Sympt. Incidence') + theme_bw()
+  xlab('Infection Success') + ylab('Sympt. Incidence') + theme_bw() 
 
 corr_3 <- sum_ct %>% ggplot(aes(symptom_perc, log_ct)) + geom_point() + geom_smooth(method = lm) + 
   xlab('Sympt. Incidence') + ylab('Log(CFU/g)') + theme_bw()
@@ -422,17 +438,20 @@ summarize_tr_var  %>%
   ) 
 
 ## Figure S14
-sus_1<- sum_ct %>% ggplot(aes(perc, recover_perc)) + 
+sus_1<- sum_ct %>% ggplot(aes(perc, survival_perc)) + 
   geom_point() + geom_smooth(method = lm) + 
-  xlab('Infection Success') + ylab('Overwinter Recovery') + theme_bw()
+  xlab('Infection Success') + ylab('Overwinter Survival') + theme_bw() + 
+  stat_cor(method = "pearson") 
 
-sus_2<- sum_ct %>% ggplot(aes(log_ct, recover_perc)) + 
+sus_2<- sum_ct %>% ggplot(aes(log_ct, survival_perc)) + 
   geom_point() + geom_smooth(method = lm) + 
-  xlab('log(CFU/g)') + ylab('Overwinter Recovery') + theme_bw()
+  xlab('log(CFU/g)') + ylab('Overwinter Survival') + theme_bw()+ 
+  stat_cor(method = "pearson") 
 
-sus_3<- sum_ct %>% ggplot(aes(symptom_perc, recover_perc)) + 
+sus_3<- sum_ct %>% ggplot(aes(symptom_perc, survival_perc)) + 
   geom_point() + geom_smooth(method = lm) + 
-  xlab('Sympt. Incidence') + ylab('OverwinterRecovery') + theme_bw()
+  xlab('Sympt. Incidence') + ylab('Overwinter Survival') + theme_bw()+ 
+  stat_cor(method = "pearson") 
 
 sus_1 + sus_2 + sus_3
 

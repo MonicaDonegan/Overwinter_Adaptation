@@ -32,8 +32,8 @@ movement_mod<- glmmTMB(Response~ Treatment + Variety  + as.factor(Side) *as.fact
 summary(movement_mod)
 Anova(movement_mod, test = "Chisq")
 
-## model 5 - Overwinter recovery
-model_overwinter<- glmmTMB(as.factor(value) ~  Variety + Treatment +  log + as.factor(year)  + (1 | VineID)  
+## model 5 - Overwinter pathogen survival
+model_overwinter<- glmmTMB((1-as.numeric(value)) ~  Variety + Treatment +  log + as.factor(year)  + (1 | VineID)  
                 , family = 'binomial' ,data = overwinterCT_excludeNever)
 
 summary(model_overwinter)
@@ -62,7 +62,7 @@ cor.test(sum_ct$symptom_perc,sum_ct$perc)
 cor.test(sum_ct$log_ct,sum_ct$symptom_perc)
 
 ## Correlations - recovery and susceptibility
-cor.test(sum_ct$perc,sum_ct$recover_perc)
-cor.test(sum_ct$log_ct,sum_ct$recover_perc)
-cor.test(sum_ct$symptom_perc,sum_ct$recover_perc)
+cor.test(sum_ct$perc,sum_ct$survival_perc)
+cor.test(sum_ct$log_ct,sum_ct$survival_perc)
+cor.test(sum_ct$symptom_perc,sum_ct$survival_perc)
 
